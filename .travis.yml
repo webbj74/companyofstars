@@ -27,7 +27,3 @@ matrix:
   allow_failures:
     - php: hhvm
 
-notifications:
-  slack:
-    rooms:
-      - acquia:KkTwsMNJshR8hV4VvPbZs2J8#lightning
