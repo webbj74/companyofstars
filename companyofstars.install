@@ -1,0 +1,87 @@
+<?php
+/**
+ * @file
+ * Install, update and uninstall functions for Company of Stars.
+ *
+ */
+
+/**
+ * Implements hook_install().
+ *
+ * Perform actions to set up the site for this profile.
+ *
+ * @see system_install()
+ */
+function companyofstars_install() {
+  _companyofstarsThemeInit();
+  _companyofstarsAntispamInit();
+  _companyofstarsUserInit();
+
+  variable_set('site_slogan', 'The U.S. Grand Lodge Local Body Database Project');
+}
+
+function _companyofstarsThemeInit() {
+  // Enable default theme.
+  theme_enable(array('stars2015'));
+  variable_set('theme_default', 'stars2015');
+  theme_disable(array('bartik'));
+
+  // Set admin theme to Ember.
+  variable_set('admin_theme', 'ember');
+
+  // Use admin theme when editing nodes.
+  variable_set('node_admin_theme', '1');
+
+  // Set jQuery to version 1.10.
+  // Note: this is required for Zurb Foundation, but may break Panels Admin
+  variable_set('jquery_update_compression_type', 'min');
+  variable_set('jquery_update_jquery_cdn', 'none');
+  variable_set('jquery_update_jquery_version', '1.10');
+
+  // Use the source version of Modernizr since the build process can't produce
+  // a minified version from the library.
+  $variants = variable_get('navbar_libraries_variants', array());
+  $variants['modernizr'] = 'source';
+  variable_set('navbar_libraries_variants', $variants);
+}
+
+function _companyofstarsAntispamInit() {
+  variable_set('captcha_default_challenge', 'recaptcha/reCAPTCHA');
+  variable_set('recaptcha_ajax_api', 1);
+  variable_set('recaptcha_nocookies', 0);
+  variable_set('recaptcha_theme', 'clean');
+
+  // For testing we set fake keys
+  if (!variable_get('recaptcha_private_key', '')) {
+    variable_set('recaptcha_private_key', 'Temp_Private_Key__Change_Me');
+    variable_set('recaptcha_public_key', 'Temp_Public_Key__Change_Me');
+  }
+}
+
+function _companyofstarsUserInit() {
+  // Allow visitor account creation, but with administrative approval.
+  variable_set('user_register', USER_REGISTER_VISITORS_ADMINISTRATIVE_APPROVAL);
+
+  // Enable default permissions for system roles.
+  user_role_grant_permissions(DRUPAL_ANONYMOUS_RID, array('access content'));
+  user_role_grant_permissions(DRUPAL_AUTHENTICATED_RID, array('access content'));
+}
+
+function companyofstars_requirements($phase) {
+  $requirements = array();
+
+  if ($phase == 'runtime') {
+    // Warn about Jquery 1.10 if Panels is used (so we don't forget)
+    if (module_exists('jquery_update') && module_exists('panels')) {
+      $jqVersion = variable_get('jquery_update_jquery_version', '');
+      if (in_array($jqVersion, array('1.10'))) {
+        $requirements['companyofstars_jquery'] = array(
+          'value' => 'jQuery ' . check_plain($jqVersion),
+          'severity' => REQUIREMENT_WARNING,
+          'description' => 'As of Nov 2014, there are known issues using jQuery 1.8+ and Panels admin UI.'
+        );
+      }
+    }
+  }
+  return $requirements;
+}

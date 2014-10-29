@@ -1,0 +1,6 @@
+# Ignore build
+/bin
+/docroot
+/vendor
+/composer.lock
+

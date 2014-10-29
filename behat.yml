@@ -1,0 +1,19 @@
+default:
+  paths:
+    features: tests/features
+    bootstrap: %behat.paths.features%/bootstrap
+  extensions:
+    Behat\MinkExtension\Extension:
+      goutte:
+        guzzle_parameters:
+          curl.options:
+            CURLOPT_TIMEOUT: 120
+      selenium2: ~
+      base_url: http://127.0.0.1:8080/
+    Drupal\DrupalExtension\Extension:
+      blackbox: ~
+      text:
+        username_field: admin
+        password_field: admin
+      drush:
+        root: docroot

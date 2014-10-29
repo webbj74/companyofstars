@@ -1,0 +1,12 @@
+name = Company of Stars
+description = Drupal profile based on Ordo Templi Orientis' Local Body Project.
+core = 7.x
+distribution_name = Company of Stars
+exclusive = 1
+php = 5.4
+
+; Install required contributed modules.
+dependencies[] = jquery_update
+dependencies[] = navbar
+dependencies[] = recaptcha
+

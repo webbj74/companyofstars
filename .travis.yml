@@ -1,0 +1,42 @@
+language: php
+php:
+  - 5.4
+
+mysql:
+  database: drupal
+  username: root
+  encoding: utf8
+
+install:
+  # Make composer usable
+  - composer self-update
+  - export PATH="$HOME/.composer/vendor/bin:$PATH"
+
+  # Ensure that sendmail is off
+  - echo 'sendmail_path = /bin/true' >> drupal.php.ini;
+  - phpenv config-add drupal.php.ini
+  - phpenv rehash
+
+  # Install drush
+  - composer global require drush/drush:dev-master
+
+  # Install testing suite
+  - composer install
+
+  # Provision the test site
+  - drush make --working-copy --concurrency=5 build-companyofstars.make docroot
+
+  # Install Drupal
+  - cd docroot
+  - drush si companyofstars --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=admin --account-mail=admin@example.com --site-mail=noreply@example.com --yes
+
+before_script:
+  # Load a lightweight server
+  - drush runserver 8080 &
+  - until netstat -an 2>/dev/null | grep '8080.*LISTEN'; do sleep 0.2; done
+  - cd ..
+
+
+script:
+  - bin/behat
+
