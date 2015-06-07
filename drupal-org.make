@@ -24,6 +24,11 @@ projects[recaptcha][type] = "module"
 projects[recaptcha][subdir] = "contrib"
 projects[recaptcha][version] = "1.11"
 
+projects[migrate][type] = "module"
+projects[migrate][subdir] = "contrib"
+projects[migrate][version] = "2.7"
+
+
 
 ; Themes
 projects[ember][version] = "2.x-dev"
