@@ -8,6 +8,10 @@ projects[captcha][type] = "module"
 projects[captcha][subdir] = "contrib"
 projects[captcha][version] = "1.2"
 
+projects[features][type] = "module"
+projects[features][subdir] = "contrib"
+projects[features][version] = "2.5"
+
 projects[jquery_update][version] = "2.5"
 projects[jquery_update][type] = "module"
 projects[jquery_update][subdir] = "contrib"
@@ -16,6 +20,10 @@ projects[libraries][version] = "2.2"
 projects[libraries][type] = "module"
 projects[libraries][subdir] = "contrib"
 
+projects[migrate][type] = "module"
+projects[migrate][subdir] = "contrib"
+projects[migrate][version] = "2.7"
+
 projects[navbar][version] = "1.5"
 projects[navbar][type] = "module"
 projects[navbar][subdir] = "contrib"
@@ -23,10 +31,6 @@ projects[navbar][subdir] = "contrib"
 projects[recaptcha][type] = "module"
 projects[recaptcha][subdir] = "contrib"
 projects[recaptcha][version] = "1.11"
-
-projects[migrate][type] = "module"
-projects[migrate][subdir] = "contrib"
-projects[migrate][version] = "2.7"
 
 
 

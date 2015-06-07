@@ -9,4 +9,9 @@ php = 5.4
 dependencies[] = jquery_update
 dependencies[] = navbar
 dependencies[] = recaptcha
+dependencies[] = features
+dependencies[] = migrate
+dependencies[] = migrate_ui
+dependencies[] = migrate_example
+
 
