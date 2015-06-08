@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Chartered Body feature.
+ */
+
+include_once 'chartered_body.features.inc';
