@@ -5,10 +5,20 @@ core = 7.x
 ; Contributed modules.
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+; Address Field: Provides Address Field Widget
+projects[addressfield][type] = "module"
+projects[addressfield][subdir] = "contrib"
+projects[addressfield][version] = "1.1"
+
 ; CAPTCHA: Spam deterrent
 projects[captcha][type] = "module"
 projects[captcha][subdir] = "contrib"
 projects[captcha][version] = "1.2"
+
+; CTools: Misc Drupal Magic
+projects[ctools][type] = "module"
+projects[ctools][subdir] = "contrib"
+projects[ctools][version] = "1.7"
 
 ; Date: Provides Date Field Widget
 projects[date][type] = "module"
