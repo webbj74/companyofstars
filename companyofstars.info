@@ -10,6 +10,7 @@ dependencies[] = jquery_update
 dependencies[] = navbar
 dependencies[] = recaptcha
 dependencies[] = features
+dependencies[] = field_collection
 dependencies[] = migrate
 dependencies[] = migrate_ui
 dependencies[] = migrate_example

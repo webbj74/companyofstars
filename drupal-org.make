@@ -8,9 +8,17 @@ projects[captcha][type] = "module"
 projects[captcha][subdir] = "contrib"
 projects[captcha][version] = "1.2"
 
+projects[entity][type] = "module"
+projects[entity][subdir] = "contrib"
+projects[entity][version] = "1.6"
+
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
 projects[features][version] = "2.5"
+
+projects[field_collection][type] = "module"
+projects[field_collection][subdir] = "contrib"
+projects[field_collection][version] = "1.0-beta8"
 
 projects[jquery_update][version] = "2.5"
 projects[jquery_update][type] = "module"
