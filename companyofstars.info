@@ -6,6 +6,7 @@ exclusive = 1
 php = 5.4
 
 ; Install required contributed modules.
+dependencies[] = date
 dependencies[] = jquery_update
 dependencies[] = navbar
 dependencies[] = recaptcha
