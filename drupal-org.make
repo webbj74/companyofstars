@@ -5,11 +5,6 @@ core = 7.x
 ; Contributed modules.
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-; Address Field: Provides Address Field Widget
-projects[addressfield][type] = "module"
-projects[addressfield][subdir] = "contrib"
-projects[addressfield][version] = "1.1"
-
 ; CAPTCHA: Spam deterrent
 projects[captcha][type] = "module"
 projects[captcha][subdir] = "contrib"
@@ -61,6 +56,11 @@ projects[migrate][version] = "2.7"
 projects[navbar][version] = "1.5"
 projects[navbar][type] = "module"
 projects[navbar][subdir] = "contrib"
+
+; Date: Provides Date Field Widget
+projects[partial_date][type] = "module"
+projects[partial_date][subdir] = "contrib"
+projects[partial_date][version] = "1.0-beta1"
 
 ; ReCAPTCHA: Spam deterrent
 projects[recaptcha][type] = "module"

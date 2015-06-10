@@ -6,17 +6,20 @@ exclusive = 1
 php = 5.4
 
 ; Install required contributed modules.
-dependencies[] = addressfield
 dependencies[] = ctools
 dependencies[] = date
+dependencies[] = partial_date
 dependencies[] = jquery_update
 dependencies[] = navbar
 dependencies[] = recaptcha
-dependencies[] = features
+dependencies[] = field_ui
 dependencies[] = field_collection
-dependencies[] = migrate
-dependencies[] = migrate_ui
 
 ; Features
+dependencies[] = features
 dependencies[] = chartered_body
 
+; Data Import
+dependencies[] = migrate
+dependencies[] = migrate_ui
+dependencies[] = migrate_chartered_body
