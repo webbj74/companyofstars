@@ -12,6 +12,8 @@ dependencies[] = partial_date
 dependencies[] = jquery_update
 dependencies[] = navbar
 dependencies[] = recaptcha
+dependencies[] = search
+dependencies[] = block
 dependencies[] = field_ui
 dependencies[] = field_collection
 

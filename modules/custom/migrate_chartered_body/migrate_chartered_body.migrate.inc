@@ -19,7 +19,7 @@ function migrate_chartered_body_migrate_api() {
     'migrations' => array(
       'CharteredBodyNodes' => array(
         'class_name' => 'CharteredBodyNodeMigration',
-        'source_file' => '/tmp/cos.csv',
+        'source_file' => __DIR__ . '/data/company-of-stars.json',
         'group_name' => 'chartered_body',
       ),
     ),
