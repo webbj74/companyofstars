@@ -202,34 +202,47 @@ For early bodies (1980-1988) where no exact closing date is available, Terry has
 Data in this revision was compiled by Terry Murdock and completed on 6/1/2012.  Any errors, or shocking factual oversteps are his alone.  Invaluable assistance in finding source material or other assistance was provided by Mike Kolson, Richard Kaczynski, and Scott Wilder.  Special thanks are owed to Bill Heidrick, who answered my numerous messages with wit and a wealth of information.
 EOT;
     $this->addFieldMapping('title', 'body_name');
+    $this->addFieldMapping('field_current_status', 'last_status');
     $this->addFieldMapping('body', 'notes');
+    $this->addFieldMapping('uid', NULL)->defaultValue(1);
 
-    $this->addFieldMapping('field_chartered_date:year', 'date_chartered_y');
-    $this->addFieldMapping('field_chartered_date:month', 'date_chartered_m');
-    $this->addFieldMapping('field_chartered_date:day', 'date_chartered_d');
+    $this->addFieldMapping('log', null)->defaultValue("TEST");
+    $this->addFieldMapping('revision', null)->defaultValue(1);
 
-    $this->addFieldMapping('field_dissolved_date:year', 'date_dissolved_y');
-    $this->addFieldMapping('field_dissolved_date:month', 'date_dissolved_m');
-    $this->addFieldMapping('field_dissolved_date:day', 'date_dissolved_d');
+    // Unmapped destination fields
+    // Some conventions we use here: with a long list of fields to ignore, we
+    // arrange them alphabetically, one distinct field per line (although
+    // subfields of the same field may be grouped on the same line), and indent
+    // subfields to distinguish them from top-level fields.
+    $this->addUnmigratedDestinations(array(
+        'body:format',
+        'body:language',
+        'body:summary',
+      'changed',
+      'comment',
+      'created',
+      'is_new',
+      'language',
+      'nid',
+      'promote',
+      'revision_uid',
+      'status',
+      'sticky',
+      'tnid',
+      'translate',
+    ));
 
-
-    $this->addFieldMapping('log')->defaultValue("TEST");
-    $this->addFieldMapping('revision')->defaultValue(1);
   }
 
-  public function prepare_row($row) {
-    $row->date_chartered_y = '2001';
-    $row->date_chartered_m = '01';
-    $row->date_chartered_d = '02';
-    $row->date_dissolved_y = '2002';
-    $row->date_dissolved_m = '03';
-    $row->date_dissolved_d = null;
+  public function prepareRow($row) {
+    if (isset($row->last_status) && $row->last_status == 'Dissolved') {
+      $row->last_status = 'Closed';
+    }
+    Migration::displayMessage(t('Data for this row: !url', array('!url' => print_r($row,1))));
   }
 
   public function fields() {
     return [
-      'date_chartered' => 'original date this body opened',
-      'date_dissolved' => 'final date this body closed',
     ];
   }
 
