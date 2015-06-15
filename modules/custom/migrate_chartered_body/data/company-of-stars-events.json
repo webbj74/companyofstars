@@ -1,0 +1,7032 @@
+[
+    {
+        "event": "Chartered",
+        "date": "1935-09-21",
+        "name": "Agape No. 2",
+        "type": "Lodge",
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "Agape No. 2 Lodge of CA",
+        "key": "Agape No. 2 Lodge of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1953-09-07",
+        "name": null,
+        "type": null,
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "Agape No. 2 Lodge of CA",
+        "key": "Agape No. 2 Lodge of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1977-10-12",
+        "name": "Thelema",
+        "type": "Lodge",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Thelema Lodge of CA",
+        "key": "Thelema Lodge of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2009-01-10",
+        "name": null,
+        "type": null,
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Thelema Lodge of CA",
+        "key": "Thelema Lodge of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1977-10-12",
+        "name": "Heru-Ra-Ha",
+        "type": "Chapter",
+        "city": "Newport Beach",
+        "state": "CA",
+        "body_name": "Heru-Ra-Ha Lodge of CA",
+        "key": "Heru-Ra-Ha Lodge of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1978-01-07",
+        "name": "Heru-Ra-Ha",
+        "type": "Lodge",
+        "city": "Newport Beach",
+        "state": "CA",
+        "body_name": "Heru-Ra-Ha Lodge of CA",
+        "key": "Heru-Ra-Ha Lodge of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1977-10-12",
+        "name": "Alan Bennett",
+        "type": "Chapter",
+        "city": "Syracuse",
+        "state": "NY",
+        "body_name": "Ra-Hoor-Khuit Lodge of NY",
+        "key": "Ra-Hoor-Khuit Lodge of NY-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1978-08",
+        "name": "Ra-Hoor-Khuit",
+        "type": "Lodge",
+        "city": "Syracuse",
+        "state": "NY",
+        "body_name": "Ra-Hoor-Khuit Lodge of NY",
+        "key": "Ra-Hoor-Khuit Lodge of NY-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1987-02-13",
+        "name": null,
+        "type": null,
+        "city": "Syracuse",
+        "state": "NY",
+        "body_name": "Ra-Hoor-Khuit Lodge of NY",
+        "key": "Ra-Hoor-Khuit Lodge of NY-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1977-12",
+        "name": "Mobius",
+        "type": "Chapter",
+        "city": "Bowling Green",
+        "state": "NY",
+        "body_name": "LasThal Lodge of NY",
+        "key": "LasThal Lodge of NY-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1978-08",
+        "name": "LasThal",
+        "type": "Lodge",
+        "city": "Bowling Green",
+        "state": "NY",
+        "body_name": "LasThal Lodge of NY",
+        "key": "LasThal Lodge of NY-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1981-04",
+        "name": null,
+        "type": null,
+        "city": "Bowling Green",
+        "state": "NY",
+        "body_name": "LasThal Lodge of NY",
+        "key": "LasThal Lodge of NY-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1977-05-22",
+        "name": "Frater Achad",
+        "type": "Chapter",
+        "city": "East Haven",
+        "state": "CT",
+        "body_name": "Brocken Mountain Lodge of CT",
+        "key": "Brocken Mountain Lodge of CT-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1979-04-23",
+        "name": "Brocken Mountain",
+        "type": "Lodge",
+        "city": "East Haven",
+        "state": "CT",
+        "body_name": "Brocken Mountain Lodge of CT",
+        "key": "Brocken Mountain Lodge of CT-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1987-02-13",
+        "name": null,
+        "type": null,
+        "city": "East Haven",
+        "state": "CT",
+        "body_name": "Brocken Mountain Lodge of CT",
+        "key": "Brocken Mountain Lodge of CT-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1979-04-22",
+        "name": "Ankh-F-N-Khonsu",
+        "type": "Chapter",
+        "city": "Minneapolis",
+        "state": "MN",
+        "body_name": "Ankh-F-N-Khonsu Chapter of MN",
+        "key": "Ankh-F-N-Khonsu Chapter of MN-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1981-08-21",
+        "name": null,
+        "type": null,
+        "city": "Minneapolis",
+        "state": "MN",
+        "body_name": "Ankh-F-N-Khonsu Chapter of MN",
+        "key": "Ankh-F-N-Khonsu Chapter of MN-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1979-08",
+        "name": "Nuit-Urania",
+        "type": "Chapter",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Nuit-Urania Oasis of CA",
+        "key": "Nuit-Urania Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1985-12-31",
+        "name": "Nuit-Urania",
+        "type": "Oasis",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Nuit-Urania Oasis of CA",
+        "key": "Nuit-Urania Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-03-12",
+        "name": null,
+        "type": null,
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Nuit-Urania Oasis of CA",
+        "key": "Nuit-Urania Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1979-09-18",
+        "name": "Tahuti",
+        "type": "Encampment",
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Tahuti Lodge of NY",
+        "key": "Tahuti Lodge of NY-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1981-01",
+        "name": "Tahuti",
+        "type": "Chapter",
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Tahuti Lodge of NY",
+        "key": "Tahuti Lodge of NY-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1981-02",
+        "name": "Tahuti",
+        "type": "Lodge",
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Tahuti Lodge of NY",
+        "key": "Tahuti Lodge of NY-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1979-10-13",
+        "name": 418,
+        "type": "Lodge",
+        "city": "Dublin",
+        "state": "CA",
+        "body_name": "418 Lodge of CA",
+        "key": "418 Lodge of CA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1981-05",
+        "name": 418,
+        "type": "Lodge",
+        "city": "Oroville",
+        "state": "CA",
+        "body_name": "418 Lodge of CA",
+        "key": "418 Lodge of CA-01"
+    },
+    {
+        "event": "Location",
+        "date": "2004-04",
+        "name": 418,
+        "type": "Lodge",
+        "city": "Sacramento",
+        "state": "CA",
+        "body_name": "418 Lodge of CA",
+        "key": "418 Lodge of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1979-10-27",
+        "name": "Camp A.O. Spare",
+        "type": "Encampment",
+        "city": "Columbus",
+        "state": "GA",
+        "body_name": "Sekhet Chapter of GA",
+        "key": "Sekhet Chapter of GA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1981-09",
+        "name": "Camp A.O. Spare",
+        "type": "Chapter",
+        "city": "Columbus",
+        "state": "GA",
+        "body_name": "Sekhet Chapter of GA",
+        "key": "Sekhet Chapter of GA-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1981-12",
+        "name": "Camp A.O. Spare",
+        "type": "Camp",
+        "city": "Columbus",
+        "state": "GA",
+        "body_name": "Sekhet Chapter of GA",
+        "key": "Sekhet Chapter of GA-02"
+    },
+    {
+        "event": "Renamed",
+        "date": "1983-04",
+        "name": "Sekhet",
+        "type": "Chapter",
+        "city": "Columbus",
+        "state": "GA",
+        "body_name": "Sekhet Chapter of GA",
+        "key": "Sekhet Chapter of GA-03"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1983-07",
+        "name": null,
+        "type": null,
+        "city": "Columbus",
+        "state": "GA",
+        "body_name": "Sekhet Chapter of GA",
+        "key": "Sekhet Chapter of GA-04"
+    },
+    {
+        "event": "Chartered",
+        "date": "1980-02-16",
+        "name": "Hoor-Pa-Kraat",
+        "type": "Encampment",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Hoor-Pa-Kraat Encampment of CA",
+        "key": "Hoor-Pa-Kraat Encampment of CA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1981-04",
+        "name": "Hoor-Pa-Kraat",
+        "type": "Encampment",
+        "city": "El Sobrante",
+        "state": "CA",
+        "body_name": "Hoor-Pa-Kraat Encampment of CA",
+        "key": "Hoor-Pa-Kraat Encampment of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-06-25",
+        "name": null,
+        "type": null,
+        "city": "El Sobrante",
+        "state": "CA",
+        "body_name": "Hoor-Pa-Kraat Encampment of CA",
+        "key": "Hoor-Pa-Kraat Encampment of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1980-05",
+        "name": "Babalon-Therion",
+        "type": "Chapter",
+        "city": "Gardena",
+        "state": "CA",
+        "body_name": "Babalon-Therion Chapter of CA",
+        "key": "Babalon-Therion Chapter of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1985-11",
+        "name": null,
+        "type": null,
+        "city": "Gardena",
+        "state": "CA",
+        "body_name": "Babalon-Therion Chapter of CA",
+        "key": "Babalon-Therion Chapter of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1980-07-05",
+        "name": "Fenris",
+        "type": "Encampment",
+        "city": "Carmel",
+        "state": "NY",
+        "body_name": "Cheshire Chapter of NY",
+        "key": "Cheshire Chapter of NY-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1983-04",
+        "name": "Cheshire",
+        "type": "Encampment",
+        "city": "Carmel",
+        "state": "NY",
+        "body_name": "Cheshire Chapter of NY",
+        "key": "Cheshire Chapter of NY-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1983-05",
+        "name": "Cheshire",
+        "type": "Chapter",
+        "city": "Carmel",
+        "state": "NY",
+        "body_name": "Cheshire Chapter of NY",
+        "key": "Cheshire Chapter of NY-02"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1983-07",
+        "name": null,
+        "type": null,
+        "city": "Carmel",
+        "state": "NY",
+        "body_name": "Cheshire Chapter of NY",
+        "key": "Cheshire Chapter of NY-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1980-08-08",
+        "name": "DeMolay",
+        "type": "Encampment",
+        "city": "Glendale",
+        "state": "CA",
+        "body_name": "DeMolay Chapter of CA",
+        "key": "DeMolay Chapter of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1984-05-28",
+        "name": "DeMolay",
+        "type": "Chapter",
+        "city": "Glendale",
+        "state": "CA",
+        "body_name": "DeMolay Chapter of CA",
+        "key": "DeMolay Chapter of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1985-05-25",
+        "name": null,
+        "type": null,
+        "city": "Glendale",
+        "state": "CA",
+        "body_name": "DeMolay Chapter of CA",
+        "key": "DeMolay Chapter of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1980-09-25",
+        "name": "Abrahadabra",
+        "type": "Encampment",
+        "city": "Oxnard",
+        "state": "CA",
+        "body_name": "Abrahadabra Encampment of CA",
+        "key": "Abrahadabra Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1983-07",
+        "name": null,
+        "type": null,
+        "city": "Oxnard",
+        "state": "CA",
+        "body_name": "Abrahadabra Encampment of CA",
+        "key": "Abrahadabra Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1980-10-12",
+        "name": "Frater Belarion",
+        "type": "Encampment",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Frater Belarion Chapter of UT",
+        "key": "Frater Belarion Chapter of UT-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1981-02",
+        "name": "Frater Belarion",
+        "type": "Chapter",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Frater Belarion Chapter of UT",
+        "key": "Frater Belarion Chapter of UT-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1981-05",
+        "name": null,
+        "type": null,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Frater Belarion Chapter of UT",
+        "key": "Frater Belarion Chapter of UT-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-02",
+        "name": "Camp of Sappho",
+        "type": "Encampment",
+        "city": "New London",
+        "state": "CT",
+        "body_name": "Camp of Sappho Encampment of CT",
+        "key": "Camp of Sappho Encampment of CT-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1982-06",
+        "name": null,
+        "type": null,
+        "city": "New London",
+        "state": "CT",
+        "body_name": "Camp of Sappho Encampment of CT",
+        "key": "Camp of Sappho Encampment of CT-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-02",
+        "name": "Perdurabo",
+        "type": "Encampment",
+        "city": "Sat. of East Haven",
+        "state": "CT",
+        "body_name": "Perdurabo Encampment of CT",
+        "key": "Perdurabo Encampment of CT-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1981-12",
+        "name": null,
+        "type": null,
+        "city": "Sat. of East Haven",
+        "state": "CT",
+        "body_name": "Perdurabo Encampment of CT",
+        "key": "Perdurabo Encampment of CT-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-03",
+        "name": "Ko Yuen",
+        "type": "Encampment",
+        "city": "Sat. of East Haven",
+        "state": "CT",
+        "body_name": "Ko Yuen Encampment of CT",
+        "key": "Ko Yuen Encampment of CT-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1981-12",
+        "name": null,
+        "type": null,
+        "city": "Sat. of East Haven",
+        "state": "CT",
+        "body_name": "Ko Yuen Encampment of CT",
+        "key": "Ko Yuen Encampment of CT-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-04",
+        "name": "Boleskine",
+        "type": "Encampment",
+        "city": "Sacramento",
+        "state": "CA",
+        "body_name": "Boleskine Chapter of CA",
+        "key": "Boleskine Chapter of CA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1981-10",
+        "name": "Boleskine",
+        "type": "Encampment",
+        "city": "Carmichael",
+        "state": "CA",
+        "body_name": "Boleskine Chapter of CA",
+        "key": "Boleskine Chapter of CA-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1982-06",
+        "name": "Boleskine",
+        "type": "Chapter",
+        "city": "Carmichael",
+        "state": "CA",
+        "body_name": "Boleskine Chapter of CA",
+        "key": "Boleskine Chapter of CA-02"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1987-02-13",
+        "name": null,
+        "type": null,
+        "city": "Carmichael",
+        "state": "CA",
+        "body_name": "Boleskine Chapter of CA",
+        "key": "Boleskine Chapter of CA-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-05",
+        "name": "Aiwass",
+        "type": "Encampment",
+        "city": "Newark",
+        "state": "CA",
+        "body_name": "Aiwass Lodge of CA",
+        "key": "Aiwass Lodge of CA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1982-05",
+        "name": "Aiwass",
+        "type": "Encampment",
+        "city": "San Jose",
+        "state": "CA",
+        "body_name": "Aiwass Lodge of CA",
+        "key": "Aiwass Lodge of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1982-06",
+        "name": null,
+        "type": null,
+        "city": "San Jose",
+        "state": "CA",
+        "body_name": "Aiwass Lodge of CA",
+        "key": "Aiwass Lodge of CA-02"
+    },
+    {
+        "event": "Chartered Anew",
+        "date": "1985-08",
+        "name": "Aiwass",
+        "type": "Encampment",
+        "city": "San Jose",
+        "state": "CA",
+        "body_name": "Aiwass Lodge of CA",
+        "key": "Aiwass Lodge of CA-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1988-03-12",
+        "name": "Aiwass",
+        "type": "Oasis",
+        "city": "San Jose",
+        "state": "CA",
+        "body_name": "Aiwass Lodge of CA",
+        "key": "Aiwass Lodge of CA-04"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1989-06-15",
+        "name": "Aiwass",
+        "type": "Lodge",
+        "city": "San Jose",
+        "state": "CA",
+        "body_name": "Aiwass Lodge of CA",
+        "key": "Aiwass Lodge of CA-05"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1993-04-03",
+        "name": "Aiwass",
+        "type": "Oasis",
+        "city": "San Jose",
+        "state": "CA",
+        "body_name": "Aiwass Lodge of CA",
+        "key": "Aiwass Lodge of CA-06"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1995-04-01",
+        "name": "Aiwass",
+        "type": "Lodge",
+        "city": "San Jose",
+        "state": "CA",
+        "body_name": "Aiwass Lodge of CA",
+        "key": "Aiwass Lodge of CA-07"
+    },
+    {
+        "event": "Location",
+        "date": "1998-04-04",
+        "name": "Aiwass",
+        "type": "Lodge",
+        "city": "Turlock",
+        "state": "CA",
+        "body_name": "Aiwass Lodge of CA",
+        "key": "Aiwass Lodge of CA-08"
+    },
+    {
+        "event": "Dissolved Anew",
+        "date": "2000-02-06",
+        "name": null,
+        "type": null,
+        "city": "Turlock",
+        "state": "CA",
+        "body_name": "Aiwass Lodge of CA",
+        "key": "Aiwass Lodge of CA-09"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-08",
+        "name": "AHA",
+        "type": "Encampment",
+        "city": "Long Beach",
+        "state": "CA",
+        "body_name": "AHA Encampment of CA",
+        "key": "AHA Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1984-08",
+        "name": null,
+        "type": null,
+        "city": "Long Beach",
+        "state": "CA",
+        "body_name": "AHA Encampment of CA",
+        "key": "AHA Encampment of CA-01"
+    },
+    {
+        "event": "Chartered Anew",
+        "date": "1988-12-10",
+        "name": "AHA",
+        "type": "Encampment",
+        "city": "Long Beach",
+        "state": "CA",
+        "body_name": "AHA Encampment of CA",
+        "key": "AHA Encampment of CA-02"
+    },
+    {
+        "event": "Renamed",
+        "date": "1989-01",
+        "name": "AHA",
+        "type": "Encampment",
+        "city": "Long Beach",
+        "state": "CA",
+        "body_name": "AHA Encampment of CA",
+        "key": "AHA Encampment of CA-03"
+    },
+    {
+        "event": "Dissolved Anew",
+        "date": "1991-10-03",
+        "name": null,
+        "type": null,
+        "city": "Long Beach",
+        "state": "CA",
+        "body_name": "AHA Encampment of CA",
+        "key": "AHA Encampment of CA-04"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-08",
+        "name": "AHA",
+        "type": "Encampment",
+        "city": "Chicago",
+        "state": "IL",
+        "body_name": "Hiawatha\u2019s Departure Encampment of IL",
+        "key": "Hiawatha\u2019s Departure Encampment of IL-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1982-12",
+        "name": "Hiawatha\u2019s Departure",
+        "type": "Encampment",
+        "city": "Chicago",
+        "state": "IL",
+        "body_name": "Hiawatha\u2019s Departure Encampment of IL",
+        "key": "Hiawatha\u2019s Departure Encampment of IL-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1984-07",
+        "name": null,
+        "type": null,
+        "city": "Chicago",
+        "state": "IL",
+        "body_name": "Hiawatha\u2019s Departure Encampment of IL",
+        "key": "Hiawatha\u2019s Departure Encampment of IL-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-08",
+        "name": "INRI",
+        "type": "Encampment",
+        "city": "New York",
+        "state": "NY",
+        "body_name": "INRI Encampment of NY",
+        "key": "INRI Encampment of NY-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1982-06",
+        "name": null,
+        "type": null,
+        "city": "New York",
+        "state": "NY",
+        "body_name": "INRI Encampment of NY",
+        "key": "INRI Encampment of NY-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-08-21",
+        "name": "Hell Fire",
+        "type": "Chapter",
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Kheprah Oasis of NY",
+        "key": "Kheprah Oasis of NY-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1983-04",
+        "name": "Kheprah",
+        "type": "Chapter",
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Kheprah Oasis of NY",
+        "key": "Kheprah Oasis of NY-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1983-04",
+        "name": "Kheprah",
+        "type": "Oasis",
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Kheprah Oasis of NY",
+        "key": "Kheprah Oasis of NY-02"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1989-03-18",
+        "name": null,
+        "type": null,
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Kheprah Oasis of NY",
+        "key": "Kheprah Oasis of NY-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-09",
+        "name": "Hadit",
+        "type": "Encampment",
+        "city": "Philadelphia",
+        "state": "PA",
+        "body_name": "Hadit Chapter of PA",
+        "key": "Hadit Chapter of PA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1983-07",
+        "name": "Hadit",
+        "type": "Chapter",
+        "city": "Philadelphia",
+        "state": "PA",
+        "body_name": "Hadit Chapter of PA",
+        "key": "Hadit Chapter of PA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1984-10",
+        "name": null,
+        "type": null,
+        "city": "Philadelphia",
+        "state": "PA",
+        "body_name": "Hadit Chapter of PA",
+        "key": "Hadit Chapter of PA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-03-30",
+        "name": "Kephra",
+        "type": "Encampment",
+        "city": "Santa Cruz",
+        "state": "CA",
+        "body_name": "Kephra Encampment of CA",
+        "key": "Kephra Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1982-04",
+        "name": null,
+        "type": null,
+        "city": "Santa Cruz",
+        "state": "CA",
+        "body_name": "Kephra Encampment of CA",
+        "key": "Kephra Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-11",
+        "name": "Cheth",
+        "type": "Encampment",
+        "city": "Gainesville",
+        "state": "FL",
+        "body_name": "Cheth Encampment of FL",
+        "key": "Cheth Encampment of FL-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1983-04",
+        "name": null,
+        "type": null,
+        "city": "Gainesville",
+        "state": "FL",
+        "body_name": "Cheth Encampment of FL",
+        "key": "Cheth Encampment of FL-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-11",
+        "name": "Maat",
+        "type": "Encampment",
+        "city": "Phoenix",
+        "state": "AZ",
+        "body_name": "Maat Encampment of AZ",
+        "key": "Maat Encampment of AZ-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1995-09-16",
+        "name": null,
+        "type": null,
+        "city": "Phoenix",
+        "state": "AZ",
+        "body_name": "Maat Encampment of AZ",
+        "key": "Maat Encampment of AZ-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1981-11",
+        "name": "Stellar Visions",
+        "type": "Chapter",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Stellar Visions Chapter of CA",
+        "key": "Stellar Visions Chapter of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1985-02",
+        "name": null,
+        "type": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Stellar Visions Chapter of CA",
+        "key": "Stellar Visions Chapter of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1982-01",
+        "name": 93,
+        "type": "Encampment",
+        "city": "Laguna Beach",
+        "state": "CA",
+        "body_name": "93 Oasis of CA",
+        "key": "93 Oasis of CA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1987-06",
+        "name": 93,
+        "type": "Encampment",
+        "city": "Capistrano Beach",
+        "state": "CA",
+        "body_name": "93 Oasis of CA",
+        "key": "93 Oasis of CA-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1990-03-17",
+        "name": 93,
+        "type": "Oasis",
+        "city": "Capistrano Beach",
+        "state": "CA",
+        "body_name": "93 Oasis of CA",
+        "key": "93 Oasis of CA-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1992-03",
+        "name": 93,
+        "type": "Lodge",
+        "city": "Capistrano Beach",
+        "state": "CA",
+        "body_name": "93 Oasis of CA",
+        "key": "93 Oasis of CA-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2005-10-22",
+        "name": 93,
+        "type": "Oasis",
+        "city": "Capistrano Beach",
+        "state": "CA",
+        "body_name": "93 Oasis of CA",
+        "key": "93 Oasis of CA-04"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2009-10-17",
+        "name": null,
+        "type": null,
+        "city": "Capistrano Beach",
+        "state": "CA",
+        "body_name": "93 Oasis of CA",
+        "key": "93 Oasis of CA-05"
+    },
+    {
+        "event": "Chartered",
+        "date": "1982-02",
+        "name": "Excalibur Sphinx",
+        "type": "Encampment",
+        "city": "Boston",
+        "state": "MA",
+        "body_name": "Excalibur Sphinx Encampment of MA",
+        "key": "Excalibur Sphinx Encampment of MA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1982-05",
+        "name": null,
+        "type": null,
+        "city": "Boston",
+        "state": "MA",
+        "body_name": "Excalibur Sphinx Encampment of MA",
+        "key": "Excalibur Sphinx Encampment of MA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1982-04-18",
+        "name": 777,
+        "type": "Encampment",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Roving 777 Oasis of UT",
+        "key": "Roving 777 Oasis of UT-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1986-01",
+        "name": "Roving 777",
+        "type": "Oasis",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Roving 777 Oasis of UT",
+        "key": "Roving 777 Oasis of UT-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-09-17",
+        "name": null,
+        "type": null,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Roving 777 Oasis of UT",
+        "key": "Roving 777 Oasis of UT-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1982-04-18",
+        "name": "Clear Light of the Void",
+        "type": "Encampment",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Clear Light of the Void Encampment of UT",
+        "key": "Clear Light of the Void Encampment of UT-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1985-02",
+        "name": null,
+        "type": null,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Clear Light of the Void Encampment of UT",
+        "key": "Clear Light of the Void Encampment of UT-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1982-04-18",
+        "name": "Deus ex Machina",
+        "type": "Encampment",
+        "city": "Sat. of Berkeley",
+        "state": "CA",
+        "body_name": "Deus ex Machina Encampment of CA",
+        "key": "Deus ex Machina Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1983-07",
+        "name": null,
+        "type": null,
+        "city": "Sat. of Berkeley",
+        "state": "CA",
+        "body_name": "Deus ex Machina Encampment of CA",
+        "key": "Deus ex Machina Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1982-04-18",
+        "name": "Hrumachis",
+        "type": "Chapter",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Hrumachis Chapter of UT",
+        "key": "Hrumachis Chapter of UT-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1983-07",
+        "name": null,
+        "type": null,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Hrumachis Chapter of UT",
+        "key": "Hrumachis Chapter of UT-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1982-05",
+        "name": "Heru-Behutet",
+        "type": "Encampment",
+        "city": "Sat. of Berkeley",
+        "state": "CA",
+        "body_name": "Heru-Behutet Encampment of CA",
+        "key": "Heru-Behutet Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1984-01",
+        "name": null,
+        "type": null,
+        "city": "Sat. of Berkeley",
+        "state": "CA",
+        "body_name": "Heru-Behutet Encampment of CA",
+        "key": "Heru-Behutet Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1982-10",
+        "name": "Yakin",
+        "type": "Encampment",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Yakin Encampment of WA",
+        "key": "Yakin Encampment of WA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1983-07",
+        "name": null,
+        "type": null,
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Yakin Encampment of WA",
+        "key": "Yakin Encampment of WA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-01",
+        "name": "Daath",
+        "type": "Encampment",
+        "city": "Carlton",
+        "state": "WA",
+        "body_name": "Daath Encampment of WA",
+        "key": "Daath Encampment of WA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1983-07",
+        "name": null,
+        "type": null,
+        "city": "Carlton",
+        "state": "WA",
+        "body_name": "Daath Encampment of WA",
+        "key": "Daath Encampment of WA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-02",
+        "name": "Malkuth",
+        "type": "Encampment",
+        "city": "Wallingford",
+        "state": "CT",
+        "body_name": "Malkuth Encampment of CT",
+        "key": "Malkuth Encampment of CT-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1984-02",
+        "name": null,
+        "type": null,
+        "city": "Wallingford",
+        "state": "CT",
+        "body_name": "Malkuth Encampment of CT",
+        "key": "Malkuth Encampment of CT-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-03",
+        "name": "Coph-Nia",
+        "type": "Encampment",
+        "city": "Eugene",
+        "state": "OR",
+        "body_name": "Coph-Nia Lodge of OR",
+        "key": "Coph-Nia Lodge of OR-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1985-06",
+        "name": null,
+        "type": null,
+        "city": "Eugene",
+        "state": "OR",
+        "body_name": "Coph-Nia Lodge of OR",
+        "key": "Coph-Nia Lodge of OR-01"
+    },
+    {
+        "event": "Chartered Anew",
+        "date": "1986-03-31",
+        "name": "Coph-Nia",
+        "type": "Encampment",
+        "city": "Eugene",
+        "state": "OR",
+        "body_name": "Coph-Nia Lodge of OR",
+        "key": "Coph-Nia Lodge of OR-02"
+    },
+    {
+        "event": "Location",
+        "date": "1988-02",
+        "name": "Coph-Nia",
+        "type": "Encampment",
+        "city": "Springfield",
+        "state": "OR",
+        "body_name": "Coph-Nia Lodge of OR",
+        "key": "Coph-Nia Lodge of OR-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1988-03-12",
+        "name": "Coph-Nia",
+        "type": "Oasis",
+        "city": "Springfield",
+        "state": "OR",
+        "body_name": "Coph-Nia Lodge of OR",
+        "key": "Coph-Nia Lodge of OR-04"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1994-02-12",
+        "name": "Coph-Nia",
+        "type": "Lodge",
+        "city": "Springfield",
+        "state": "OR",
+        "body_name": "Coph-Nia Lodge of OR",
+        "key": "Coph-Nia Lodge of OR-05"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2007-10-13",
+        "name": "Coph-Nia",
+        "type": "Oasis",
+        "city": "Springfield",
+        "state": "OR",
+        "body_name": "Coph-Nia Lodge of OR",
+        "key": "Coph-Nia Lodge of OR-06"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2011-08-05",
+        "name": "Coph-Nia",
+        "type": "Lodge",
+        "city": "Springfield",
+        "state": "OR",
+        "body_name": "Coph-Nia Lodge of OR",
+        "key": "Coph-Nia Lodge of OR-07"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-03",
+        "name": "O.A.K.",
+        "type": "Encampment",
+        "city": "Carlton",
+        "state": "WA",
+        "body_name": "O.A.K. Encampment of OR",
+        "key": "O.A.K. Encampment of OR-00"
+    },
+    {
+        "event": "Location",
+        "date": "1983-05-24",
+        "name": "O.A.K.",
+        "type": "Encampment",
+        "city": "Grants Pass",
+        "state": "OR",
+        "body_name": "O.A.K. Encampment of OR",
+        "key": "O.A.K. Encampment of OR-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-06-25",
+        "name": null,
+        "type": null,
+        "city": "Grants Pass",
+        "state": "OR",
+        "body_name": "O.A.K. Encampment of OR",
+        "key": "O.A.K. Encampment of OR-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-04",
+        "name": "Eulis",
+        "type": "Encampment",
+        "city": "Atlanta",
+        "state": "GA",
+        "body_name": "Eulis Lodge of GA",
+        "key": "Eulis Lodge of GA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1986-03-31",
+        "name": "Eulis",
+        "type": "Oasis",
+        "city": "Atlanta",
+        "state": "GA",
+        "body_name": "Eulis Lodge of GA",
+        "key": "Eulis Lodge of GA-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1987-06",
+        "name": "Eulis",
+        "type": "Lodge",
+        "city": "Atlanta",
+        "state": "GA",
+        "body_name": "Eulis Lodge of GA",
+        "key": "Eulis Lodge of GA-02"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1995-08-05",
+        "name": null,
+        "type": null,
+        "city": "Atlanta",
+        "state": "GA",
+        "body_name": "Eulis Lodge of GA",
+        "key": "Eulis Lodge of GA-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-04",
+        "name": "Heru-Ba-Hutet",
+        "type": "Encampment",
+        "city": "Anacortes",
+        "state": "WA",
+        "body_name": "Heru-Ba-Hutet Encampment of WA",
+        "key": "Heru-Ba-Hutet Encampment of WA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1983-11",
+        "name": null,
+        "type": null,
+        "city": "Anacortes",
+        "state": "WA",
+        "body_name": "Heru-Ba-Hutet Encampment of WA",
+        "key": "Heru-Ba-Hutet Encampment of WA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-04",
+        "name": "Kilili",
+        "type": "Encampment",
+        "city": "New Orleans",
+        "state": "LA",
+        "body_name": "Kali Lodge of LA",
+        "key": "Kali Lodge of LA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1986-03-31",
+        "name": "Kilili",
+        "type": "Oasis",
+        "city": "New Orleans",
+        "state": "LA",
+        "body_name": "Kali Lodge of LA",
+        "key": "Kali Lodge of LA-01"
+    },
+    {
+        "event": "Renamed",
+        "date": "1987-04-15",
+        "name": "Kali",
+        "type": "Lodge",
+        "city": "New Orleans",
+        "state": "LA",
+        "body_name": "Kali Lodge of LA",
+        "key": "Kali Lodge of LA-02"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1998-08-28",
+        "name": null,
+        "type": null,
+        "city": "New Orleans",
+        "state": "LA",
+        "body_name": "Kali Lodge of LA",
+        "key": "Kali Lodge of LA-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-04",
+        "name": "Ox",
+        "type": "Chapter",
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "Ox Chapter of CA",
+        "key": "Ox Chapter of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1984-06",
+        "name": null,
+        "type": null,
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "Ox Chapter of CA",
+        "key": "Ox Chapter of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-04",
+        "name": "Sirius",
+        "type": "Encampment",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Sirius Camp of CA",
+        "key": "Sirius Camp of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1986-01-31",
+        "name": "Sirius",
+        "type": "Oasis",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Sirius Camp of CA",
+        "key": "Sirius Camp of CA-01"
+    },
+    {
+        "event": "Location",
+        "date": "2001",
+        "name": "Sirius",
+        "type": "Oasis",
+        "city": "Oakland",
+        "state": "CA",
+        "body_name": "Sirius Camp of CA",
+        "key": "Sirius Camp of CA-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2001-03-01",
+        "name": "Sirius",
+        "type": "Camp",
+        "city": "Oakland",
+        "state": "CA",
+        "body_name": "Sirius Camp of CA",
+        "key": "Sirius Camp of CA-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-05",
+        "name": "Aum Ha",
+        "type": "Encampment",
+        "city": "Somerville",
+        "state": "MA",
+        "body_name": "Aum Ha Encampment of MA",
+        "key": "Aum Ha Encampment of MA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1985-02",
+        "name": null,
+        "type": null,
+        "city": "Somerville",
+        "state": "MA",
+        "body_name": "Aum Ha Encampment of MA",
+        "key": "Aum Ha Encampment of MA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-07",
+        "name": "Konx Om Pax E-Camp",
+        "type": "Encampment",
+        "city": "Fresno",
+        "state": "CA",
+        "body_name": "Konx Om Pax E-Camp Encampment of CA",
+        "key": "Konx Om Pax E-Camp Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-04-19",
+        "name": null,
+        "type": null,
+        "city": "Fresno",
+        "state": "CA",
+        "body_name": "Konx Om Pax E-Camp Encampment of CA",
+        "key": "Konx Om Pax E-Camp Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-07",
+        "name": "Mt. Olympus",
+        "type": "Chapter",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Mt. Olympus Chapter of UT",
+        "key": "Mt. Olympus Chapter of UT-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1985-02",
+        "name": null,
+        "type": null,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Mt. Olympus Chapter of UT",
+        "key": "Mt. Olympus Chapter of UT-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-07",
+        "name": "Pleiades",
+        "type": "Encampment",
+        "city": "Marin Co.",
+        "state": "CA",
+        "body_name": "Pleiades Encampment of CA",
+        "key": "Pleiades Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1984-01",
+        "name": null,
+        "type": null,
+        "city": "Marin Co.",
+        "state": "CA",
+        "body_name": "Pleiades Encampment of CA",
+        "key": "Pleiades Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-07",
+        "name": "The Twin Star",
+        "type": "Encampment",
+        "city": "Waltham",
+        "state": "MA",
+        "body_name": "The Twin Star Encampment of MA",
+        "key": "The Twin Star Encampment of MA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1990-03-17",
+        "name": null,
+        "type": null,
+        "city": "Waltham",
+        "state": "MA",
+        "body_name": "The Twin Star Encampment of MA",
+        "key": "The Twin Star Encampment of MA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1983-12",
+        "name": "Earthstar",
+        "type": "Encampment",
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Earthstar Encampment of NY",
+        "key": "Earthstar Encampment of NY-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-12",
+        "name": null,
+        "type": null,
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Earthstar Encampment of NY",
+        "key": "Earthstar Encampment of NY-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-02",
+        "name": "Ain Soph Aur",
+        "type": "Encampment",
+        "city": "Long Island City",
+        "state": "NY",
+        "body_name": "Ain Soph Aur Encampment of NY",
+        "key": "Ain Soph Aur Encampment of NY-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1985-02",
+        "name": null,
+        "type": null,
+        "city": "Long Island City",
+        "state": "NY",
+        "body_name": "Ain Soph Aur Encampment of NY",
+        "key": "Ain Soph Aur Encampment of NY-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-02",
+        "name": "Flaming Sword",
+        "type": "Encampment",
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Flaming Sword Encampment of NY",
+        "key": "Flaming Sword Encampment of NY-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1986-05",
+        "name": null,
+        "type": null,
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Flaming Sword Encampment of NY",
+        "key": "Flaming Sword Encampment of NY-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-02",
+        "name": "Magick Theater",
+        "type": "Encampment",
+        "city": "Santa Cruz",
+        "state": "CA",
+        "body_name": "Magick Theater Encampment of CA",
+        "key": "Magick Theater Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1998-08-28",
+        "name": null,
+        "type": null,
+        "city": "Santa Cruz",
+        "state": "CA",
+        "body_name": "Magick Theater Encampment of CA",
+        "key": "Magick Theater Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-02",
+        "name": "Nemo",
+        "type": "Encampment",
+        "city": "Woodbridge",
+        "state": "CA",
+        "body_name": "Nemo Encampment of CA",
+        "key": "Nemo Encampment of CA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1987-06",
+        "name": "Nemo",
+        "type": "Encampment",
+        "city": "Stockton",
+        "state": "CA",
+        "body_name": "Nemo Encampment of CA",
+        "key": "Nemo Encampment of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1987-07-15",
+        "name": null,
+        "type": null,
+        "city": "Stockton",
+        "state": "CA",
+        "body_name": "Nemo Encampment of CA",
+        "key": "Nemo Encampment of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-06",
+        "name": "Baphomet",
+        "type": "Lodge",
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "Baphomet Lodge of CA",
+        "key": "Baphomet Lodge of CA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1990-06",
+        "name": "Baphomet",
+        "type": "Lodge",
+        "city": "Glendale",
+        "state": "CA",
+        "body_name": "Baphomet Lodge of CA",
+        "key": "Baphomet Lodge of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1996-09-28",
+        "name": null,
+        "type": null,
+        "city": "Glendale",
+        "state": "CA",
+        "body_name": "Baphomet Lodge of CA",
+        "key": "Baphomet Lodge of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-07",
+        "name": "Boulak",
+        "type": "Encampment",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Boulak Encampment of CA",
+        "key": "Boulak Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1991-01-21",
+        "name": null,
+        "type": null,
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Boulak Encampment of CA",
+        "key": "Boulak Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-07",
+        "name": "Thoth",
+        "type": "Encampment",
+        "city": "Syracuse",
+        "state": "NY",
+        "body_name": "Thoth Encampment of NY",
+        "key": "Thoth Encampment of NY-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1990-07-16",
+        "name": null,
+        "type": null,
+        "city": "Syracuse",
+        "state": "NY",
+        "body_name": "Thoth Encampment of NY",
+        "key": "Thoth Encampment of NY-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-08",
+        "name": "Azoth",
+        "type": "Encampment",
+        "city": "Hollywood",
+        "state": "CA",
+        "body_name": "Azoth Oasis of CA",
+        "key": "Azoth Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1987-06",
+        "name": "Azoth",
+        "type": "Oasis",
+        "city": "Hollywood",
+        "state": "CA",
+        "body_name": "Azoth Oasis of CA",
+        "key": "Azoth Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-09-17",
+        "name": null,
+        "type": null,
+        "city": "Hollywood",
+        "state": "CA",
+        "body_name": "Azoth Oasis of CA",
+        "key": "Azoth Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-08",
+        "name": "Camp of Norman",
+        "type": "Encampment",
+        "city": "Boon",
+        "state": "NC",
+        "body_name": "Camp of Norman Encampment of NC",
+        "key": "Camp of Norman Encampment of NC-00"
+    },
+    {
+        "event": "Location",
+        "date": "1987-06",
+        "name": "Camp of Norman",
+        "type": "Encampment",
+        "city": "Charlotte",
+        "state": "NC",
+        "body_name": "Camp of Norman Encampment of NC",
+        "key": "Camp of Norman Encampment of NC-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1987-11",
+        "name": null,
+        "type": null,
+        "city": "Charlotte",
+        "state": "NC",
+        "body_name": "Camp of Norman Encampment of NC",
+        "key": "Camp of Norman Encampment of NC-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-08",
+        "name": "Oz",
+        "type": "Encampment",
+        "city": "Murfreesboro",
+        "state": "TN",
+        "body_name": "Oz Encampment of TN",
+        "key": "Oz Encampment of TN-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1986-01-31",
+        "name": null,
+        "type": null,
+        "city": "Murfreesboro",
+        "state": "TN",
+        "body_name": "Oz Encampment of TN",
+        "key": "Oz Encampment of TN-01"
+    },
+    {
+        "event": "Chartered Anew",
+        "date": "1986-03",
+        "name": "Oz",
+        "type": "Encampment",
+        "city": "Murfreesboro",
+        "state": "TN",
+        "body_name": "Oz Encampment of TN",
+        "key": "Oz Encampment of TN-02"
+    },
+    {
+        "event": "Dissolved Anew",
+        "date": "1987-11-21",
+        "name": null,
+        "type": null,
+        "city": "Murfreesboro",
+        "state": "TN",
+        "body_name": "Oz Encampment of TN",
+        "key": "Oz Encampment of TN-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-08",
+        "name": "Sekhet Bast Ra",
+        "type": "Encampment",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "body_name": "Sekhet Bast Ra Oasis of OK",
+        "key": "Sekhet Bast Ra Oasis of OK-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1987-06-15",
+        "name": "Sekhet Bast Ra",
+        "type": "Lodge",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "body_name": "Sekhet Bast Ra Oasis of OK",
+        "key": "Sekhet Bast Ra Oasis of OK-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1993-04-03",
+        "name": "Sekhet Bast Ra",
+        "type": "Oasis",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "body_name": "Sekhet Bast Ra Oasis of OK",
+        "key": "Sekhet Bast Ra Oasis of OK-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1997-04-19",
+        "name": "Sekhet Bast Ra",
+        "type": "Lodge",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "body_name": "Sekhet Bast Ra Oasis of OK",
+        "key": "Sekhet Bast Ra Oasis of OK-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2003-10-04",
+        "name": "Sekhet Bast Ra",
+        "type": "Oasis",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "body_name": "Sekhet Bast Ra Oasis of OK",
+        "key": "Sekhet Bast Ra Oasis of OK-04"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-10",
+        "name": "Ayin",
+        "type": "Encampment",
+        "city": "Jersey City",
+        "state": "NJ",
+        "body_name": "Ayin Oasis of NJ",
+        "key": "Ayin Oasis of NJ-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1985-02",
+        "name": null,
+        "type": null,
+        "city": "Jersey City",
+        "state": "NJ",
+        "body_name": "Ayin Oasis of NJ",
+        "key": "Ayin Oasis of NJ-01"
+    },
+    {
+        "event": "Chartered Anew",
+        "date": "1986-03",
+        "name": "Ayin",
+        "type": "Encampment",
+        "city": "Jersey City",
+        "state": "NJ",
+        "body_name": "Ayin Oasis of NJ",
+        "key": "Ayin Oasis of NJ-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1986-10",
+        "name": "Ayin",
+        "type": "Oasis",
+        "city": "Jersey City",
+        "state": "NJ",
+        "body_name": "Ayin Oasis of NJ",
+        "key": "Ayin Oasis of NJ-03"
+    },
+    {
+        "event": "Dissolved Anew",
+        "date": "1989-12-21",
+        "name": null,
+        "type": null,
+        "city": "Jersey City",
+        "state": "NJ",
+        "body_name": "Ayin Oasis of NJ",
+        "key": "Ayin Oasis of NJ-04"
+    },
+    {
+        "event": "Chartered",
+        "date": "1984-10",
+        "name": "Camp of Stars & Raven",
+        "type": "Encampment",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Nur alal Ufuk Oasis of CA",
+        "key": "Nur alal Ufuk Oasis of CA-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1986-03-31",
+        "name": "Nur alal Ufuk",
+        "type": "Oasis",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Nur alal Ufuk Oasis of CA",
+        "key": "Nur alal Ufuk Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1987-05-15",
+        "name": null,
+        "type": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Nur alal Ufuk Oasis of CA",
+        "key": "Nur alal Ufuk Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1985-01",
+        "name": "Kykuit",
+        "type": "Encampment",
+        "city": "North Tarrytown",
+        "state": "NY",
+        "body_name": "Kykuit Encampment of NY",
+        "key": "Kykuit Encampment of NY-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-07-21",
+        "name": null,
+        "type": null,
+        "city": "North Tarrytown",
+        "state": "NY",
+        "body_name": "Kykuit Encampment of NY",
+        "key": "Kykuit Encampment of NY-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1985-02",
+        "name": "Pyramid",
+        "type": "Encampment",
+        "city": "Kenmore",
+        "state": "NY",
+        "body_name": "Pyramid Lodge of NY",
+        "key": "Pyramid Lodge of NY-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1986-03-31",
+        "name": "Pyramid",
+        "type": "Oasis",
+        "city": "Kenmore",
+        "state": "NY",
+        "body_name": "Pyramid Lodge of NY",
+        "key": "Pyramid Lodge of NY-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1987-06-15",
+        "name": "Pyramid",
+        "type": "Lodge",
+        "city": "Kenmore",
+        "state": "NY",
+        "body_name": "Pyramid Lodge of NY",
+        "key": "Pyramid Lodge of NY-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1985-02",
+        "name": "Shekinah",
+        "type": "Encampment",
+        "city": "Marysville",
+        "state": "WA",
+        "body_name": "Shekinah Encampment of WA",
+        "key": "Shekinah Encampment of WA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1985-11-30",
+        "name": null,
+        "type": null,
+        "city": "Marysville",
+        "state": "WA",
+        "body_name": "Shekinah Encampment of WA",
+        "key": "Shekinah Encampment of WA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1985-03",
+        "name": "Athexaea",
+        "type": "Encampment",
+        "city": "Flushing",
+        "state": "NY",
+        "body_name": "Athexaea Encampment of NJ",
+        "key": "Athexaea Encampment of NJ-00"
+    },
+    {
+        "event": "Location",
+        "date": "1986-08",
+        "name": "Athexaea",
+        "type": "Encampment",
+        "city": "Morristown",
+        "state": "NJ",
+        "body_name": "Athexaea Encampment of NJ",
+        "key": "Athexaea Encampment of NJ-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1991-03-16",
+        "name": null,
+        "type": null,
+        "city": "Morristown",
+        "state": "NJ",
+        "body_name": "Athexaea Encampment of NJ",
+        "key": "Athexaea Encampment of NJ-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1985-06",
+        "name": "Chaos",
+        "type": "Encampment",
+        "city": "Seffner",
+        "state": "FL",
+        "body_name": "Chaos Encampment of FL",
+        "key": "Chaos Encampment of FL-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1985-11-30",
+        "name": null,
+        "type": null,
+        "city": "Seffner",
+        "state": "FL",
+        "body_name": "Chaos Encampment of FL",
+        "key": "Chaos Encampment of FL-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1985-09",
+        "name": "Ankh-af-na-Khonsu",
+        "type": "Lodge",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Ankh-af-na-Khonsu Lodge of CA",
+        "key": "Ankh-af-na-Khonsu Lodge of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-03-12",
+        "name": null,
+        "type": null,
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Ankh-af-na-Khonsu Lodge of CA",
+        "key": "Ankh-af-na-Khonsu Lodge of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1985-11-23",
+        "name": "Agape",
+        "type": "Lodge",
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Grand Lodge",
+        "key": "Grand Lodge-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1996-03-30",
+        "name": "Grand",
+        "type": "Grand Lodge",
+        "city": "New York",
+        "state": "NY",
+        "body_name": "Grand Lodge",
+        "key": "Grand Lodge-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1985-12-31",
+        "name": "Dii Alieni",
+        "type": "Encampment",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Dii Alieni Encampment of CA",
+        "key": "Dii Alieni Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1989-09-16",
+        "name": null,
+        "type": null,
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Dii Alieni Encampment of CA",
+        "key": "Dii Alieni Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1986-01-31",
+        "name": "Hypatia",
+        "type": "Encampment",
+        "city": "Castro County",
+        "state": "CA",
+        "body_name": "Hypatia Encampment of CA",
+        "key": "Hypatia Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1993-02-14",
+        "name": null,
+        "type": null,
+        "city": "Castro County",
+        "state": "CA",
+        "body_name": "Hypatia Encampment of CA",
+        "key": "Hypatia Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1986-01-31",
+        "name": "NYOTO Grotto 131",
+        "type": "Encampment",
+        "city": "Bronx",
+        "state": "NY",
+        "body_name": "NYOTO Grotto 131 Encampment of NY",
+        "key": "NYOTO Grotto 131 Encampment of NY-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1986-09",
+        "name": null,
+        "type": null,
+        "city": "Bronx",
+        "state": "NY",
+        "body_name": "NYOTO Grotto 131 Encampment of NY",
+        "key": "NYOTO Grotto 131 Encampment of NY-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1986-03-31",
+        "name": "Abrahadabra",
+        "type": "Encampment",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Abrahadabra Oasis of CA",
+        "key": "Abrahadabra Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1987-06-15",
+        "name": "Abrahadabra",
+        "type": "Oasis",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Abrahadabra Oasis of CA",
+        "key": "Abrahadabra Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1990-07-16",
+        "name": null,
+        "type": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Abrahadabra Oasis of CA",
+        "key": "Abrahadabra Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1986-03-31",
+        "name": "Babalon-Therion",
+        "type": "Encampment",
+        "city": "Venice",
+        "state": "CA",
+        "body_name": "Babalon-Therion Encampment of CA",
+        "key": "Babalon-Therion Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1987-06-15",
+        "name": null,
+        "type": null,
+        "city": "Venice",
+        "state": "CA",
+        "body_name": "Babalon-Therion Encampment of CA",
+        "key": "Babalon-Therion Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1986-03-31",
+        "name": "Shin Teth",
+        "type": "Encampment",
+        "city": "Duncannon",
+        "state": "PA",
+        "body_name": "Shin Teth Encampment of PA",
+        "key": "Shin Teth Encampment of PA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1987-09",
+        "name": null,
+        "type": null,
+        "city": "Duncannon",
+        "state": "PA",
+        "body_name": "Shin Teth Encampment of PA",
+        "key": "Shin Teth Encampment of PA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1986-06",
+        "name": "Selene",
+        "type": "Encampment",
+        "city": "Boulder Creek",
+        "state": "CA",
+        "body_name": "Selene Encampment of CA",
+        "key": "Selene Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-03-12",
+        "name": null,
+        "type": null,
+        "city": "Boulder Creek",
+        "state": "CA",
+        "body_name": "Selene Encampment of CA",
+        "key": "Selene Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1986-07",
+        "name": "Ebony",
+        "type": "Encampment",
+        "city": "Oxnard",
+        "state": "CA",
+        "body_name": "Ebony Encampment of CA",
+        "key": "Ebony Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-14",
+        "name": null,
+        "type": null,
+        "city": "Oxnard",
+        "state": "CA",
+        "body_name": "Ebony Encampment of CA",
+        "key": "Ebony Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1986-10",
+        "name": "Hartz Mountain",
+        "type": "Encampment",
+        "city": "Hartford",
+        "state": "CT",
+        "body_name": "Hartz Mountain Encampment of CT",
+        "key": "Hartz Mountain Encampment of CT-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1994-02-12",
+        "name": null,
+        "type": null,
+        "city": "Hartford",
+        "state": "CT",
+        "body_name": "Hartz Mountain Encampment of CT",
+        "key": "Hartz Mountain Encampment of CT-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1986-10",
+        "name": "Hriliu",
+        "type": "Encampment",
+        "city": "Cotati",
+        "state": "CA",
+        "body_name": "Hriliu Oasis of CA",
+        "key": "Hriliu Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1987-06-15",
+        "name": "Hriliu",
+        "type": "Oasis",
+        "city": "Cotati",
+        "state": "CA",
+        "body_name": "Hriliu Oasis of CA",
+        "key": "Hriliu Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1989-03-18",
+        "name": null,
+        "type": null,
+        "city": "Cotati",
+        "state": "CA",
+        "body_name": "Hriliu Oasis of CA",
+        "key": "Hriliu Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1986-10",
+        "name": "Mescalito",
+        "type": "Encampment",
+        "city": "Ontario",
+        "state": "CA",
+        "body_name": "Mescalito Encampment of CA",
+        "key": "Mescalito Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1987-09",
+        "name": null,
+        "type": null,
+        "city": "Ontario",
+        "state": "CA",
+        "body_name": "Mescalito Encampment of CA",
+        "key": "Mescalito Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1986-10",
+        "name": "Rising Aeon",
+        "type": "Encampment",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Rising Aeon Lodge of WA",
+        "key": "Rising Aeon Lodge of WA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1987-06-15",
+        "name": "Rising Aeon",
+        "type": "Oasis",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Rising Aeon Lodge of WA",
+        "key": "Rising Aeon Lodge of WA-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1988-03-12",
+        "name": "Rising Aeon",
+        "type": "Lodge",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Rising Aeon Lodge of WA",
+        "key": "Rising Aeon Lodge of WA-02"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1991-01-21",
+        "name": null,
+        "type": null,
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Rising Aeon Lodge of WA",
+        "key": "Rising Aeon Lodge of WA-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-04-15",
+        "name": "A Ka Dua",
+        "type": "Encampment",
+        "city": "Ben Lomond",
+        "state": "CA",
+        "body_name": "A Ka Dua Encampment of CA",
+        "key": "A Ka Dua Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-12",
+        "name": null,
+        "type": null,
+        "city": "Ben Lomond",
+        "state": "CA",
+        "body_name": "A Ka Dua Encampment of CA",
+        "key": "A Ka Dua Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-04-15",
+        "name": "Heliopolis",
+        "type": "Encampment",
+        "city": "Tucson",
+        "state": "AZ",
+        "body_name": "Christabel Wharton Hoopsnake Encampment of AZ",
+        "key": "Christabel Wharton Hoopsnake Encampment of AZ-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-03-12",
+        "name": null,
+        "type": null,
+        "city": "Tucson",
+        "state": "AZ",
+        "body_name": "Christabel Wharton Hoopsnake Encampment of AZ",
+        "key": "Christabel Wharton Hoopsnake Encampment of AZ-01"
+    },
+    {
+        "event": "Chartered Anew",
+        "date": "1993-02-14",
+        "name": "Heliopolis",
+        "type": "Encampment",
+        "city": "Tucson",
+        "state": "AZ",
+        "body_name": "Christabel Wharton Hoopsnake Encampment of AZ",
+        "key": "Christabel Wharton Hoopsnake Encampment of AZ-02"
+    },
+    {
+        "event": "Renamed",
+        "date": "1993-04-03",
+        "name": "Christabel Wharton Hoopsnake",
+        "type": "Encampment",
+        "city": "Tucson",
+        "state": "AZ",
+        "body_name": "Christabel Wharton Hoopsnake Encampment of AZ",
+        "key": "Christabel Wharton Hoopsnake Encampment of AZ-03"
+    },
+    {
+        "event": "Dissolved Anew",
+        "date": "1995-09-16",
+        "name": null,
+        "type": null,
+        "city": "Tucson",
+        "state": "AZ",
+        "body_name": "Christabel Wharton Hoopsnake Encampment of AZ",
+        "key": "Christabel Wharton Hoopsnake Encampment of AZ-04"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-04-15",
+        "name": "Hermes",
+        "type": "Encampment",
+        "city": "Glendale",
+        "state": "CA",
+        "body_name": "Hermes Oasis of CA",
+        "key": "Hermes Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1989-12-21",
+        "name": "Hermes",
+        "type": "Oasis",
+        "city": "Glendale",
+        "state": "CA",
+        "body_name": "Hermes Oasis of CA",
+        "key": "Hermes Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1990-03-17",
+        "name": null,
+        "type": null,
+        "city": "Glendale",
+        "state": "CA",
+        "body_name": "Hermes Oasis of CA",
+        "key": "Hermes Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-04-15",
+        "name": "Morning Star",
+        "type": "Encampment",
+        "city": "Captain Cook",
+        "state": "HI",
+        "body_name": "Morning Star Oasis of HI",
+        "key": "Morning Star Oasis of HI-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1988-12-10",
+        "name": "Morning Star",
+        "type": "Oasis",
+        "city": "Captain Cook",
+        "state": "HI",
+        "body_name": "Morning Star Oasis of HI",
+        "key": "Morning Star Oasis of HI-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-07-15",
+        "name": null,
+        "type": null,
+        "city": "Captain Cook",
+        "state": "HI",
+        "body_name": "Morning Star Oasis of HI",
+        "key": "Morning Star Oasis of HI-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-04-15",
+        "name": "Splendor Solis",
+        "type": "Encampment",
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "Splendor Solis Encampment of CA",
+        "key": "Splendor Solis Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1987-09",
+        "name": null,
+        "type": null,
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "Splendor Solis Encampment of CA",
+        "key": "Splendor Solis Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-06-15",
+        "name": "Bes-Na-Maut",
+        "type": "Encampment",
+        "city": "The Woodlands",
+        "state": "TX",
+        "body_name": "Bes-Na-Maut Encampment of TX",
+        "key": "Bes-Na-Maut Encampment of TX-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1991-01-21",
+        "name": null,
+        "type": null,
+        "city": "The Woodlands",
+        "state": "TX",
+        "body_name": "Bes-Na-Maut Encampment of TX",
+        "key": "Bes-Na-Maut Encampment of TX-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-06-15",
+        "name": "He Akratia",
+        "type": "Encampment",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "He Akratia Encampment of CA",
+        "key": "He Akratia Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-09-17",
+        "name": null,
+        "type": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "He Akratia Encampment of CA",
+        "key": "He Akratia Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-06-15",
+        "name": "N.E.O.T.O. 111",
+        "type": "Encampment",
+        "city": "Boston",
+        "state": "MA",
+        "body_name": "111 Oasis of MA",
+        "key": "111 Oasis of MA-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1988-12-10",
+        "name": 111,
+        "type": "Oasis",
+        "city": "Boston",
+        "state": "MA",
+        "body_name": "111 Oasis of MA",
+        "key": "111 Oasis of MA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1989-12-21",
+        "name": null,
+        "type": null,
+        "city": "Boston",
+        "state": "MA",
+        "body_name": "111 Oasis of MA",
+        "key": "111 Oasis of MA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-06-15",
+        "name": "Ptah Sekhet",
+        "type": "Encampment",
+        "city": "Colton",
+        "state": "CA",
+        "body_name": "Ptah Sekhet Oasis of CA",
+        "key": "Ptah Sekhet Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1988-06-25",
+        "name": "Ptah Sekhet",
+        "type": "Oasis",
+        "city": "Colton",
+        "state": "CA",
+        "body_name": "Ptah Sekhet Oasis of CA",
+        "key": "Ptah Sekhet Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1989-09-16",
+        "name": null,
+        "type": null,
+        "city": "Colton",
+        "state": "CA",
+        "body_name": "Ptah Sekhet Oasis of CA",
+        "key": "Ptah Sekhet Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-09",
+        "name": "Nebt-Het",
+        "type": "Chapter",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Nebt-Het Chapter of CA",
+        "key": "Nebt-Het Chapter of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-03-12",
+        "name": null,
+        "type": null,
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Nebt-Het Chapter of CA",
+        "key": "Nebt-Het Chapter of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-11",
+        "name": "Cubed Force Factor",
+        "type": "Encampment",
+        "city": "Tonawanda",
+        "state": "NY",
+        "body_name": "Cubed Force Factor Encampment of NY",
+        "key": "Cubed Force Factor Encampment of NY-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-14",
+        "name": null,
+        "type": null,
+        "city": "Tonawanda",
+        "state": "NY",
+        "body_name": "Cubed Force Factor Encampment of NY",
+        "key": "Cubed Force Factor Encampment of NY-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-11",
+        "name": "N.O.X.",
+        "type": "Encampment",
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "N.O.X. Encampment of CA",
+        "key": "N.O.X. Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1991-03-16",
+        "name": null,
+        "type": null,
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "N.O.X. Encampment of CA",
+        "key": "N.O.X. Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-11",
+        "name": "Nuit-Hadit",
+        "type": "Encampment",
+        "city": "Bedford",
+        "state": "TX",
+        "body_name": "Nuit-Hadit Encampment of TX",
+        "key": "Nuit-Hadit Encampment of TX-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1991-01-21",
+        "name": null,
+        "type": null,
+        "city": "Bedford",
+        "state": "TX",
+        "body_name": "Nuit-Hadit Encampment of TX",
+        "key": "Nuit-Hadit Encampment of TX-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-11",
+        "name": "Puck",
+        "type": "Encampment",
+        "city": "Boulder",
+        "state": "CO",
+        "body_name": "Puck Encampment of CO",
+        "key": "Puck Encampment of CO-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-09-17",
+        "name": null,
+        "type": null,
+        "city": "Boulder",
+        "state": "CO",
+        "body_name": "Puck Encampment of CO",
+        "key": "Puck Encampment of CO-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-03-12",
+        "name": "Invisible House",
+        "type": "Encampment",
+        "city": "Sacramento",
+        "state": "CA",
+        "body_name": "Invisible House Encampment of CA",
+        "key": "Invisible House Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-09-17",
+        "name": null,
+        "type": null,
+        "city": "Sacramento",
+        "state": "CA",
+        "body_name": "Invisible House Encampment of CA",
+        "key": "Invisible House Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-03-12",
+        "name": "Arcanum",
+        "type": "Encampment",
+        "city": "Dayton Beach",
+        "state": "FL",
+        "body_name": "Arcanum North Encampment of FL",
+        "key": "Arcanum North Encampment of FL-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1988-09-17",
+        "name": "Arcanum North",
+        "type": "Encampment",
+        "city": "Dayton Beach",
+        "state": "FL",
+        "body_name": "Arcanum North Encampment of FL",
+        "key": "Arcanum North Encampment of FL-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1995-09-16",
+        "name": null,
+        "type": null,
+        "city": "Dayton Beach",
+        "state": "FL",
+        "body_name": "Arcanum North Encampment of FL",
+        "key": "Arcanum North Encampment of FL-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-03-12",
+        "name": "Apollo-Dionysis",
+        "type": "Encampment",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Horus Oasis of UT",
+        "key": "Horus Oasis of UT-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1991-03-16",
+        "name": "Apollo-Dionysis",
+        "type": "Oasis",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Horus Oasis of UT",
+        "key": "Horus Oasis of UT-01"
+    },
+    {
+        "event": "Renamed",
+        "date": "1993-04-03",
+        "name": "Horus",
+        "type": "Lodge",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Horus Oasis of UT",
+        "key": "Horus Oasis of UT-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2000-04-29",
+        "name": "Horus",
+        "type": "Oasis",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "Horus Oasis of UT",
+        "key": "Horus Oasis of UT-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-03-12",
+        "name": "Bacchus",
+        "type": "Encampment",
+        "city": "Garden Grove",
+        "state": "CA",
+        "body_name": "Bacchus Encampment of CA",
+        "key": "Bacchus Encampment of CA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1992-07-15",
+        "name": "Bacchus",
+        "type": "Encampment",
+        "city": "Corona",
+        "state": "CA",
+        "body_name": "Bacchus Encampment of CA",
+        "key": "Bacchus Encampment of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-14",
+        "name": null,
+        "type": null,
+        "city": "Corona",
+        "state": "CA",
+        "body_name": "Bacchus Encampment of CA",
+        "key": "Bacchus Encampment of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-06-15",
+        "name": "Bagh-i-muattar",
+        "type": "Encampment",
+        "city": "Claremont",
+        "state": "CA",
+        "body_name": "Bagh-i-muattar Encampment of CA",
+        "key": "Bagh-i-muattar Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1993-08-25",
+        "name": null,
+        "type": null,
+        "city": "Claremont",
+        "state": "CA",
+        "body_name": "Bagh-i-muattar Encampment of CA",
+        "key": "Bagh-i-muattar Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-03-12",
+        "name": "Dark Sun",
+        "type": "Encampment",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Dark Sun Encampment of CA",
+        "key": "Dark Sun Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1988-06-25",
+        "name": null,
+        "type": null,
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Dark Sun Encampment of CA",
+        "key": "Dark Sun Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-03-12",
+        "name": "Equinox",
+        "type": "Encampment",
+        "city": "Hopkins",
+        "state": "SC",
+        "body_name": "Equinox Oasis of SC",
+        "key": "Equinox Oasis of SC-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1990-09-15",
+        "name": "Equinox",
+        "type": "Oasis",
+        "city": "Hopkins",
+        "state": "SC",
+        "body_name": "Equinox Oasis of SC",
+        "key": "Equinox Oasis of SC-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-12",
+        "name": null,
+        "type": null,
+        "city": "Hopkins",
+        "state": "SC",
+        "body_name": "Equinox Oasis of SC",
+        "key": "Equinox Oasis of SC-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1985-09-28",
+        "name": "Nefretiti",
+        "type": "Encampment",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Nefretiti Encampment of CA",
+        "key": "Nefretiti Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1987-03-15",
+        "name": null,
+        "type": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Nefretiti Encampment of CA",
+        "key": "Nefretiti Encampment of CA-01"
+    },
+    {
+        "event": "Chartered Anew",
+        "date": "1988-03-12",
+        "name": "Nefretiti",
+        "type": "Encampment",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Nefretiti Encampment of CA",
+        "key": "Nefretiti Encampment of CA-02"
+    },
+    {
+        "event": "Dissolved Anew",
+        "date": "1991-03-16",
+        "name": null,
+        "type": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Nefretiti Encampment of CA",
+        "key": "Nefretiti Encampment of CA-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-03-12",
+        "name": "Star Well",
+        "type": "Encampment",
+        "city": "Buffalo",
+        "state": "NY",
+        "body_name": "Star Well Encampment of NY",
+        "key": "Star Well Encampment of NY-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1991-01-21",
+        "name": null,
+        "type": null,
+        "city": "Buffalo",
+        "state": "NY",
+        "body_name": "Star Well Encampment of NY",
+        "key": "Star Well Encampment of NY-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-06-25",
+        "name": "Ananke",
+        "type": "Oasis",
+        "city": "Boulder Creek",
+        "state": "CA",
+        "body_name": "Ananke Oasis of WA",
+        "key": "Ananke Oasis of WA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1988-12-10",
+        "name": "Ananke",
+        "type": "Oasis",
+        "city": "Spokane",
+        "state": "WA",
+        "body_name": "Ananke Oasis of WA",
+        "key": "Ananke Oasis of WA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1990-07-16",
+        "name": null,
+        "type": null,
+        "city": "Spokane",
+        "state": "WA",
+        "body_name": "Ananke Oasis of WA",
+        "key": "Ananke Oasis of WA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-06-25",
+        "name": "Merkabah",
+        "type": "Encampment",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Merkabah Encampment of CA",
+        "key": "Merkabah Encampment of CA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1991-07-03",
+        "name": "Merkabah",
+        "type": "Encampment",
+        "city": "Stockton",
+        "state": "CA",
+        "body_name": "Merkabah Encampment of CA",
+        "key": "Merkabah Encampment of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-07-21",
+        "name": null,
+        "type": null,
+        "city": "Stockton",
+        "state": "CA",
+        "body_name": "Merkabah Encampment of CA",
+        "key": "Merkabah Encampment of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-06-25",
+        "name": "Philosophers Stone",
+        "type": "Encampment",
+        "city": "Saratoga",
+        "state": "CA",
+        "body_name": "Philosophers Stone Encampment of CA",
+        "key": "Philosophers Stone Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1990-03-17",
+        "name": null,
+        "type": null,
+        "city": "Saratoga",
+        "state": "CA",
+        "body_name": "Philosophers Stone Encampment of CA",
+        "key": "Philosophers Stone Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-09-17",
+        "name": "Aleister Crowley",
+        "type": "Encampment",
+        "city": "East Chicago",
+        "state": "IN",
+        "body_name": "Aleister Crowley Camp of IN",
+        "key": "Aleister Crowley Camp of IN-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1990-07-16",
+        "name": "Aleister Crowley",
+        "type": "Oasis",
+        "city": "East Chicago",
+        "state": "IN",
+        "body_name": "Aleister Crowley Camp of IN",
+        "key": "Aleister Crowley Camp of IN-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-14",
+        "name": null,
+        "type": null,
+        "city": "East Chicago",
+        "state": "IN",
+        "body_name": "Aleister Crowley Camp of IN",
+        "key": "Aleister Crowley Camp of IN-02"
+    },
+    {
+        "event": "Chartered Anew",
+        "date": "1995-09-16",
+        "name": "Aleister Crowley",
+        "type": "Oasis",
+        "city": "East Chicago",
+        "state": "IN",
+        "body_name": "Aleister Crowley Camp of IN",
+        "key": "Aleister Crowley Camp of IN-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1999-06-11",
+        "name": "Aleister Crowley",
+        "type": "Camp",
+        "city": "East Chicago",
+        "state": "IN",
+        "body_name": "Aleister Crowley Camp of IN",
+        "key": "Aleister Crowley Camp of IN-04"
+    },
+    {
+        "event": "Dissolved Anew",
+        "date": "2000-10-21",
+        "name": null,
+        "type": null,
+        "city": "East Chicago",
+        "state": "IN",
+        "body_name": "Aleister Crowley Camp of IN",
+        "key": "Aleister Crowley Camp of IN-05"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-09-17",
+        "name": "Horizon",
+        "type": "Encampment",
+        "city": "East Lansing",
+        "state": "MI",
+        "body_name": "Horizon Lodge of WA",
+        "key": "Horizon Lodge of WA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1991-01-21",
+        "name": "Horizon",
+        "type": "Encampment",
+        "city": "Renton",
+        "state": "WA",
+        "body_name": "Horizon Lodge of WA",
+        "key": "Horizon Lodge of WA-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1992-01-21",
+        "name": "Horizon",
+        "type": "Oasis",
+        "city": "Renton",
+        "state": "WA",
+        "body_name": "Horizon Lodge of WA",
+        "key": "Horizon Lodge of WA-02"
+    },
+    {
+        "event": "Location",
+        "date": "1997-07-21",
+        "name": "Horizon",
+        "type": "Oasis",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Horizon Lodge of WA",
+        "key": "Horizon Lodge of WA-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1997-10-04",
+        "name": "Horizon",
+        "type": "Lodge",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Horizon Lodge of WA",
+        "key": "Horizon Lodge of WA-04"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2001-09-29",
+        "name": "Horizon",
+        "type": "Oasis",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Horizon Lodge of WA",
+        "key": "Horizon Lodge of WA-05"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2011-08-05",
+        "name": "Horizon",
+        "type": "Lodge",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Horizon Lodge of WA",
+        "key": "Horizon Lodge of WA-06"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-09-17",
+        "name": "IAO",
+        "type": "Encampment",
+        "city": "Bloomington",
+        "state": "IN",
+        "body_name": "IAO-Abraxas Camp of IN",
+        "key": "IAO-Abraxas Camp of IN-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1997-07-21",
+        "name": "IAO-Abraxas",
+        "type": "Oasis",
+        "city": "Bloomington",
+        "state": "IN",
+        "body_name": "IAO-Abraxas Camp of IN",
+        "key": "IAO-Abraxas Camp of IN-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2000-02-06",
+        "name": "IAO-Abraxas",
+        "type": "Camp",
+        "city": "Bloomington",
+        "state": "IN",
+        "body_name": "IAO-Abraxas Camp of IN",
+        "key": "IAO-Abraxas Camp of IN-02"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2002-01-06",
+        "name": null,
+        "type": null,
+        "city": "Bloomington",
+        "state": "IN",
+        "body_name": "IAO-Abraxas Camp of IN",
+        "key": "IAO-Abraxas Camp of IN-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-09-17",
+        "name": "Io Pan",
+        "type": "Encampment",
+        "city": "Minneapolis",
+        "state": "MN",
+        "body_name": "Io Pan Encampment of MN",
+        "key": "Io Pan Encampment of MN-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-07-21",
+        "name": null,
+        "type": null,
+        "city": "Minneapolis",
+        "state": "MN",
+        "body_name": "Io Pan Encampment of MN",
+        "key": "Io Pan Encampment of MN-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-09-17",
+        "name": "Joshua Norton",
+        "type": "Oasis",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Joshua Norton Oasis of CA",
+        "key": "Joshua Norton Oasis of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-10-04",
+        "name": null,
+        "type": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Joshua Norton Oasis of CA",
+        "key": "Joshua Norton Oasis of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-12-10",
+        "name": "Bubastis",
+        "type": "Encampment",
+        "city": "Dallas",
+        "state": "TX",
+        "body_name": "Bubastis Oasis of TX",
+        "key": "Bubastis Oasis of TX-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1991-07-03",
+        "name": "Bubastis",
+        "type": "Oasis",
+        "city": "Dallas",
+        "state": "TX",
+        "body_name": "Bubastis Oasis of TX",
+        "key": "Bubastis Oasis of TX-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1995-09-16",
+        "name": "Bubastis",
+        "type": "Lodge",
+        "city": "Dallas",
+        "state": "TX",
+        "body_name": "Bubastis Oasis of TX",
+        "key": "Bubastis Oasis of TX-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1998-08-28",
+        "name": "Bubastis",
+        "type": "Oasis",
+        "city": "Dallas",
+        "state": "TX",
+        "body_name": "Bubastis Oasis of TX",
+        "key": "Bubastis Oasis of TX-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2000-08-06",
+        "name": "Bubastis",
+        "type": "Camp",
+        "city": "Dallas",
+        "state": "TX",
+        "body_name": "Bubastis Oasis of TX",
+        "key": "Bubastis Oasis of TX-04"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2007-08-10",
+        "name": "Bubastis",
+        "type": "Oasis",
+        "city": "Dallas",
+        "state": "TX",
+        "body_name": "Bubastis Oasis of TX",
+        "key": "Bubastis Oasis of TX-05"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-12-10",
+        "name": "Isis-Nephthys",
+        "type": "Encampment",
+        "city": "Milwaukee",
+        "state": "WI",
+        "body_name": "Isis-Nephthys Encampment of WI",
+        "key": "Isis-Nephthys Encampment of WI-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1993-04-03",
+        "name": null,
+        "type": null,
+        "city": "Milwaukee",
+        "state": "WI",
+        "body_name": "Isis-Nephthys Encampment of WI",
+        "key": "Isis-Nephthys Encampment of WI-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1988-12-10",
+        "name": "PIAP",
+        "type": "Encampment",
+        "city": "Englewood",
+        "state": "NJ",
+        "body_name": "PIAP Encampment of NJ",
+        "key": "PIAP Encampment of NJ-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1991-07-03",
+        "name": null,
+        "type": null,
+        "city": "Englewood",
+        "state": "NJ",
+        "body_name": "PIAP Encampment of NJ",
+        "key": "PIAP Encampment of NJ-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-03-18",
+        "name": "Alla",
+        "type": "Encampment",
+        "city": "Boulder",
+        "state": "CO",
+        "body_name": "Alla Encampment of CO",
+        "key": "Alla Encampment of CO-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1991-01-21",
+        "name": null,
+        "type": null,
+        "city": "Boulder",
+        "state": "CO",
+        "body_name": "Alla Encampment of CO",
+        "key": "Alla Encampment of CO-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-03-18",
+        "name": "Astrum Magicum",
+        "type": "Encampment",
+        "city": "Indianapolis",
+        "state": "IN",
+        "body_name": "Porta Lucis Oasis of IN",
+        "key": "Porta Lucis Oasis of IN-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1992-03-14",
+        "name": "Porta Lucis",
+        "type": "Oasis",
+        "city": "Indianapolis",
+        "state": "IN",
+        "body_name": "Porta Lucis Oasis of IN",
+        "key": "Porta Lucis Oasis of IN-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1996-09-28",
+        "name": null,
+        "type": null,
+        "city": "Indianapolis",
+        "state": "IN",
+        "body_name": "Porta Lucis Oasis of IN",
+        "key": "Porta Lucis Oasis of IN-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-03-18",
+        "name": "Hooded Man",
+        "type": "Encampment",
+        "city": "Montclair",
+        "state": "CA",
+        "body_name": "Hooded Man Encampment of CA",
+        "key": "Hooded Man Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1995-09-16",
+        "name": null,
+        "type": null,
+        "city": "Montclair",
+        "state": "CA",
+        "body_name": "Hooded Man Encampment of CA",
+        "key": "Hooded Man Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-03-18",
+        "name": "Orbit One",
+        "type": "Encampment",
+        "city": "Santa Cruz",
+        "state": "CA",
+        "body_name": "Orbit One Encampment of CA",
+        "key": "Orbit One Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-14",
+        "name": null,
+        "type": null,
+        "city": "Santa Cruz",
+        "state": "CA",
+        "body_name": "Orbit One Encampment of CA",
+        "key": "Orbit One Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-03-18",
+        "name": "Summer",
+        "type": "Encampment",
+        "city": "Whittier",
+        "state": "CA",
+        "body_name": "Star in Sight Encampment of CA",
+        "key": "Star in Sight Encampment of CA-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "1991-03-16",
+        "name": "Star in Sight",
+        "type": "Encampment",
+        "city": "Whittier",
+        "state": "CA",
+        "body_name": "Star in Sight Encampment of CA",
+        "key": "Star in Sight Encampment of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1998-12-29",
+        "name": null,
+        "type": null,
+        "city": "Whittier",
+        "state": "CA",
+        "body_name": "Star in Sight Encampment of CA",
+        "key": "Star in Sight Encampment of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-06-15",
+        "name": "Aquila",
+        "type": "Encampment",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Aquila Encampment of CA",
+        "key": "Aquila Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1989-09-16",
+        "name": null,
+        "type": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Aquila Encampment of CA",
+        "key": "Aquila Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-09-16",
+        "name": "Arcanum South",
+        "type": "Encampment",
+        "city": "Jacksonville",
+        "state": "FL",
+        "body_name": "Arcanum South Lodge of FL",
+        "key": "Arcanum South Lodge of FL-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1989-12-21",
+        "name": "Arcanum South",
+        "type": "Oasis",
+        "city": "Jacksonville",
+        "state": "FL",
+        "body_name": "Arcanum South Lodge of FL",
+        "key": "Arcanum South Lodge of FL-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1992-09-12",
+        "name": "Arcanum South",
+        "type": "Lodge",
+        "city": "Jacksonville",
+        "state": "FL",
+        "body_name": "Arcanum South Lodge of FL",
+        "key": "Arcanum South Lodge of FL-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1993-04-03",
+        "name": "Arcanum South",
+        "type": "Oasis",
+        "city": "Jacksonville",
+        "state": "FL",
+        "body_name": "Arcanum South Lodge of FL",
+        "key": "Arcanum South Lodge of FL-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1995",
+        "name": "Arcanum South",
+        "type": "Lodge",
+        "city": "Jacksonville",
+        "state": "FL",
+        "body_name": "Arcanum South Lodge of FL",
+        "key": "Arcanum South Lodge of FL-04"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1995-09-16",
+        "name": null,
+        "type": null,
+        "city": "Jacksonville",
+        "state": "FL",
+        "body_name": "Arcanum South Lodge of FL",
+        "key": "Arcanum South Lodge of FL-05"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-09-16",
+        "name": "Center of Pestilence",
+        "type": "Encampment",
+        "city": "University",
+        "state": "MS",
+        "body_name": "Center of Pestilence Encampment of MS",
+        "key": "Center of Pestilence Encampment of MS-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1999-04-24",
+        "name": null,
+        "type": null,
+        "city": "University",
+        "state": "MS",
+        "body_name": "Center of Pestilence Encampment of MS",
+        "key": "Center of Pestilence Encampment of MS-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-09-16",
+        "name": "COPE",
+        "type": "Encampment",
+        "city": "University",
+        "state": "MS",
+        "body_name": "COPE Encampment of MS",
+        "key": "COPE Encampment of MS-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1989-12-21",
+        "name": null,
+        "type": null,
+        "city": "University",
+        "state": "MS",
+        "body_name": "COPE Encampment of MS",
+        "key": "COPE Encampment of MS-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1987-06-15",
+        "name": "Khensu-Ra",
+        "type": "Encampment",
+        "city": "Bellevue",
+        "state": "NE",
+        "body_name": "Khensu-Ra Oasis of NE",
+        "key": "Khensu-Ra Oasis of NE-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1991-10-03",
+        "name": "Khensu-Ra",
+        "type": "Oasis",
+        "city": "Bellevue",
+        "state": "NE",
+        "body_name": "Khensu-Ra Oasis of NE",
+        "key": "Khensu-Ra Oasis of NE-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-03-21",
+        "name": null,
+        "type": null,
+        "city": "Bellevue",
+        "state": "NE",
+        "body_name": "Khensu-Ra Oasis of NE",
+        "key": "Khensu-Ra Oasis of NE-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-09-16",
+        "name": "Secret Serpent",
+        "type": "Encampment",
+        "city": "Seffner",
+        "state": "FL",
+        "body_name": "Secret Serpent Encampment of FL",
+        "key": "Secret Serpent Encampment of FL-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1993-12-14",
+        "name": null,
+        "type": null,
+        "city": "Seffner",
+        "state": "FL",
+        "body_name": "Secret Serpent Encampment of FL",
+        "key": "Secret Serpent Encampment of FL-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-09-16",
+        "name": "T.O.T.E.L.",
+        "type": "Encampment",
+        "city": "Brooklyn",
+        "state": "NY",
+        "body_name": "T.O.T.E.L. Encampment of NY",
+        "key": "T.O.T.E.L. Encampment of NY-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-03-14",
+        "name": null,
+        "type": null,
+        "city": "Brooklyn",
+        "state": "NY",
+        "body_name": "T.O.T.E.L. Encampment of NY",
+        "key": "T.O.T.E.L. Encampment of NY-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-12-21",
+        "name": "Amentet",
+        "type": "Encampment",
+        "city": "Daytona Beach",
+        "state": "FL",
+        "body_name": "Amentet Oasis of FL",
+        "key": "Amentet Oasis of FL-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1991-03-16",
+        "name": "Amentet",
+        "type": "Oasis",
+        "city": "Daytona Beach",
+        "state": "FL",
+        "body_name": "Amentet Oasis of FL",
+        "key": "Amentet Oasis of FL-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1995-09-16",
+        "name": null,
+        "type": null,
+        "city": "Daytona Beach",
+        "state": "FL",
+        "body_name": "Amentet Oasis of FL",
+        "key": "Amentet Oasis of FL-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-12-21",
+        "name": "Apotheosis",
+        "type": "Encampment",
+        "city": "Ashby",
+        "state": "MA",
+        "body_name": "Apotheosis Encampment of TX",
+        "key": "Apotheosis Encampment of TX-00"
+    },
+    {
+        "event": "Location",
+        "date": "1991-01-21",
+        "name": "Apotheosis",
+        "type": "Encampment",
+        "city": "Channelview",
+        "state": "TX",
+        "body_name": "Apotheosis Encampment of TX",
+        "key": "Apotheosis Encampment of TX-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2004-10-23",
+        "name": null,
+        "type": null,
+        "city": "Channelview",
+        "state": "TX",
+        "body_name": "Apotheosis Encampment of TX",
+        "key": "Apotheosis Encampment of TX-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-12-21",
+        "name": "Hiram",
+        "type": "Encampment",
+        "city": "North Reading",
+        "state": "MA",
+        "body_name": "Hiram Encampment of MA",
+        "key": "Hiram Encampment of MA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1992-01-21",
+        "name": "Hiram",
+        "type": "Encampment",
+        "city": "Winthrop",
+        "state": "MA",
+        "body_name": "Hiram Encampment of MA",
+        "key": "Hiram Encampment of MA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-14",
+        "name": null,
+        "type": null,
+        "city": "Winthrop",
+        "state": "MA",
+        "body_name": "Hiram Encampment of MA",
+        "key": "Hiram Encampment of MA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-12-21",
+        "name": "Iaidon",
+        "type": "Encampment",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Iaidon Encampment of WA",
+        "key": "Iaidon Encampment of WA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-14",
+        "name": null,
+        "type": null,
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Iaidon Encampment of WA",
+        "key": "Iaidon Encampment of WA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-12-21",
+        "name": "Kallisti 23",
+        "type": "Encampment",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Kallisti 23 Encampment of WA",
+        "key": "Kallisti 23 Encampment of WA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1991-01-21",
+        "name": null,
+        "type": null,
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Kallisti 23 Encampment of WA",
+        "key": "Kallisti 23 Encampment of WA-01"
+    },
+    {
+        "event": "Chartered Anew",
+        "date": "1992-03-14",
+        "name": "Kallisti 23",
+        "type": "Encampment",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Kallisti 23 Encampment of WA",
+        "key": "Kallisti 23 Encampment of WA-02"
+    },
+    {
+        "event": "Dissolved Anew",
+        "date": "1997-04-19",
+        "name": null,
+        "type": null,
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Kallisti 23 Encampment of WA",
+        "key": "Kallisti 23 Encampment of WA-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-12-21",
+        "name": "LVX",
+        "type": "Encampment",
+        "city": "Playa del Rey",
+        "state": "CA",
+        "body_name": "LVX Lodge of CA",
+        "key": "LVX Lodge of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1995-04-16",
+        "name": "LVX",
+        "type": "Oasis",
+        "city": "Playa del Rey",
+        "state": "CA",
+        "body_name": "LVX Lodge of CA",
+        "key": "LVX Lodge of CA-01"
+    },
+    {
+        "event": "Location",
+        "date": "1998",
+        "name": "LVX",
+        "type": "Lodge",
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "LVX Lodge of CA",
+        "key": "LVX Lodge of CA-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1998-09-26",
+        "name": "LVX",
+        "type": "Lodge",
+        "city": "Playa del Rey",
+        "state": "CA",
+        "body_name": "LVX Lodge of CA",
+        "key": "LVX Lodge of CA-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2000-08-06",
+        "name": "LVX",
+        "type": "Oasis",
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "LVX Lodge of CA",
+        "key": "LVX Lodge of CA-04"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2006-07-22",
+        "name": "LVX",
+        "type": "Lodge",
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "LVX Lodge of CA",
+        "key": "LVX Lodge of CA-05"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2009-04-18",
+        "name": null,
+        "type": null,
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "LVX Lodge of CA",
+        "key": "LVX Lodge of CA-06"
+    },
+    {
+        "event": "Chartered",
+        "date": "1989-12-21",
+        "name": "To Mega Therion",
+        "type": "Encampment",
+        "city": "Indianapolis",
+        "state": "IN",
+        "body_name": "To Mega Therion Encampment of IN",
+        "key": "To Mega Therion Encampment of IN-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1990-03-17",
+        "name": null,
+        "type": null,
+        "city": "Indianapolis",
+        "state": "IN",
+        "body_name": "To Mega Therion Encampment of IN",
+        "key": "To Mega Therion Encampment of IN-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1990-03-17",
+        "name": "RPSTOVAL",
+        "type": "Camp",
+        "city": "Corona",
+        "state": "CA",
+        "body_name": "The Star and the Snake Encampment of OR",
+        "key": "The Star and the Snake Encampment of OR-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1991-03-16",
+        "name": "RPSTOVAL",
+        "type": "Oasis",
+        "city": "Corona",
+        "state": "CA",
+        "body_name": "The Star and the Snake Encampment of OR",
+        "key": "The Star and the Snake Encampment of OR-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1991-07-03",
+        "name": "RPSTOVAL",
+        "type": "Camp",
+        "city": "Corona",
+        "state": "CA",
+        "body_name": "The Star and the Snake Encampment of OR",
+        "key": "The Star and the Snake Encampment of OR-02"
+    },
+    {
+        "event": "Location",
+        "date": "1991-09",
+        "name": "RPSTOVAL",
+        "type": "Camp",
+        "city": "Ashland",
+        "state": "OR",
+        "body_name": "The Star and the Snake Encampment of OR",
+        "key": "The Star and the Snake Encampment of OR-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1992-01-21",
+        "name": "RPSTOVAL",
+        "type": "Oasis",
+        "city": "Ashland",
+        "state": "OR",
+        "body_name": "The Star and the Snake Encampment of OR",
+        "key": "The Star and the Snake Encampment of OR-04"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1994-02-12",
+        "name": "RPSTOVAL",
+        "type": "Camp",
+        "city": "Ashland",
+        "state": "OR",
+        "body_name": "The Star and the Snake Encampment of OR",
+        "key": "The Star and the Snake Encampment of OR-05"
+    },
+    {
+        "event": "Renamed",
+        "date": "2006-01-14",
+        "name": "The Star and the Snake",
+        "type": "Encampment",
+        "city": "Ashland",
+        "state": "OR",
+        "body_name": "The Star and the Snake Encampment of OR",
+        "key": "The Star and the Snake Encampment of OR-06"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2007-10-13",
+        "name": null,
+        "type": null,
+        "city": "Ashland",
+        "state": "OR",
+        "body_name": "The Star and the Snake Encampment of OR",
+        "key": "The Star and the Snake Encampment of OR-07"
+    },
+    {
+        "event": "Chartered",
+        "date": "1990-03-17",
+        "name": "Vortex",
+        "type": "Encampment",
+        "city": "Tacoma",
+        "state": "WA",
+        "body_name": "Vortex Oasis of WA",
+        "key": "Vortex Oasis of WA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-01-21",
+        "name": null,
+        "type": null,
+        "city": "Tacoma",
+        "state": "WA",
+        "body_name": "Vortex Oasis of WA",
+        "key": "Vortex Oasis of WA-01"
+    },
+    {
+        "event": "Chartered Anew",
+        "date": "1997-07-21",
+        "name": "Vortex",
+        "type": "Encampment",
+        "city": "Tacoma",
+        "state": "WA",
+        "body_name": "Vortex Oasis of WA",
+        "key": "Vortex Oasis of WA-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2007-08-10",
+        "name": "Vortex",
+        "type": "Oasis",
+        "city": "Tacoma",
+        "state": "WA",
+        "body_name": "Vortex Oasis of WA",
+        "key": "Vortex Oasis of WA-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1990-03-17",
+        "name": "Whiskey Rebellion",
+        "type": "Encampment",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "body_name": "Whiskey Rebellion Encampment of PA",
+        "key": "Whiskey Rebellion Encampment of PA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2003-04-19",
+        "name": null,
+        "type": null,
+        "city": "Pittsburgh",
+        "state": "PA",
+        "body_name": "Whiskey Rebellion Encampment of PA",
+        "key": "Whiskey Rebellion Encampment of PA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1990-09-15",
+        "name": "Alamut",
+        "type": "Encampment",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Alamut Encampment of CA",
+        "key": "Alamut Encampment of CA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1992-03-14",
+        "name": "Alamut",
+        "type": "Encampment",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Alamut Encampment of CA",
+        "key": "Alamut Encampment of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-04-19",
+        "name": null,
+        "type": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Alamut Encampment of CA",
+        "key": "Alamut Encampment of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1990-09-15",
+        "name": "Knights Templar",
+        "type": "Encampment",
+        "city": "Lynn",
+        "state": "MA",
+        "body_name": "Knights Templar Oasis of MA",
+        "key": "Knights Templar Oasis of MA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1993-04-03",
+        "name": "Knights Templar",
+        "type": "Oasis",
+        "city": "Lynn",
+        "state": "MA",
+        "body_name": "Knights Templar Oasis of MA",
+        "key": "Knights Templar Oasis of MA-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2002-01-06",
+        "name": "Knights Templar",
+        "type": "Camp",
+        "city": "Lynn",
+        "state": "MA",
+        "body_name": "Knights Templar Oasis of MA",
+        "key": "Knights Templar Oasis of MA-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2002-04-27",
+        "name": "Knights Templar",
+        "type": "Oasis",
+        "city": "Lynn",
+        "state": "MA",
+        "body_name": "Knights Templar Oasis of MA",
+        "key": "Knights Templar Oasis of MA-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1990-09-15",
+        "name": "Midnight Sun",
+        "type": "Encampment",
+        "city": "Pelham",
+        "state": "AL",
+        "body_name": "Midnight Sun Oasis of GA",
+        "key": "Midnight Sun Oasis of GA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1993-04-03",
+        "name": "Midnight Sun",
+        "type": "Oasis",
+        "city": "Pelham",
+        "state": "AL",
+        "body_name": "Midnight Sun Oasis of GA",
+        "key": "Midnight Sun Oasis of GA-01"
+    },
+    {
+        "event": "Location",
+        "date": "1997-04-19",
+        "name": "Midnight Sun",
+        "type": "Oasis",
+        "city": "Brunswick",
+        "state": "GA",
+        "body_name": "Midnight Sun Oasis of GA",
+        "key": "Midnight Sun Oasis of GA-02"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1999-04-24",
+        "name": null,
+        "type": null,
+        "city": "Brunswick",
+        "state": "GA",
+        "body_name": "Midnight Sun Oasis of GA",
+        "key": "Midnight Sun Oasis of GA-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1990-09-15",
+        "name": "Perdurabo",
+        "type": "Encampment",
+        "city": "Chicago",
+        "state": "IL",
+        "body_name": "Perdurabo Encampment of IL",
+        "key": "Perdurabo Encampment of IL-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1993-04-03",
+        "name": null,
+        "type": null,
+        "city": "Chicago",
+        "state": "IL",
+        "body_name": "Perdurabo Encampment of IL",
+        "key": "Perdurabo Encampment of IL-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1991-01-21",
+        "name": "Mystae Telestarion",
+        "type": "Encampment",
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "Mystae Telestarion Encampment of CA",
+        "key": "Mystae Telestarion Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-04-19",
+        "name": null,
+        "type": null,
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "Mystae Telestarion Encampment of CA",
+        "key": "Mystae Telestarion Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1991-03-16",
+        "name": "Black Sun",
+        "type": "Encampment",
+        "city": "Lorain",
+        "state": "OH",
+        "body_name": "Black Sun Oasis of OH",
+        "key": "Black Sun Oasis of OH-00"
+    },
+    {
+        "event": "Location",
+        "date": "1993-08-25",
+        "name": "Black Sun",
+        "type": "Encampment",
+        "city": "Akron",
+        "state": "OH",
+        "body_name": "Black Sun Oasis of OH",
+        "key": "Black Sun Oasis of OH-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1994-02-12",
+        "name": "Black Sun",
+        "type": "Oasis",
+        "city": "Akron",
+        "state": "OH",
+        "body_name": "Black Sun Oasis of OH",
+        "key": "Black Sun Oasis of OH-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1997-04-19",
+        "name": "Black Sun",
+        "type": "Lodge",
+        "city": "Akron",
+        "state": "OH",
+        "body_name": "Black Sun Oasis of OH",
+        "key": "Black Sun Oasis of OH-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2002-01-06",
+        "name": "Black Sun",
+        "type": "Oasis",
+        "city": "Akron",
+        "state": "OH",
+        "body_name": "Black Sun Oasis of OH",
+        "key": "Black Sun Oasis of OH-04"
+    },
+    {
+        "event": "Chartered",
+        "date": "1991-03-16",
+        "name": "K.A.L.",
+        "type": "Encampment",
+        "city": "Ocean Grove",
+        "state": "NJ",
+        "body_name": "K.A.L. Encampment of NJ",
+        "key": "K.A.L. Encampment of NJ-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1998-08-28",
+        "name": null,
+        "type": null,
+        "city": "Ocean Grove",
+        "state": "NJ",
+        "body_name": "K.A.L. Encampment of NJ",
+        "key": "K.A.L. Encampment of NJ-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1991-03-16",
+        "name": "Khemenu",
+        "type": "Encampment",
+        "city": "Haslett",
+        "state": "MI",
+        "body_name": "Khemenu Encampment of MI",
+        "key": "Khemenu Encampment of MI-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1998-08-28",
+        "name": null,
+        "type": null,
+        "city": "Haslett",
+        "state": "MI",
+        "body_name": "Khemenu Encampment of MI",
+        "key": "Khemenu Encampment of MI-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1991-03-16",
+        "name": "Ouroboros",
+        "type": "Encampment",
+        "city": "El Cajon",
+        "state": "CA",
+        "body_name": "Ouroboros Oasis of CA",
+        "key": "Ouroboros Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1995-04-01",
+        "name": "Ouroboros",
+        "type": "Oasis",
+        "city": "El Cajon",
+        "state": "CA",
+        "body_name": "Ouroboros Oasis of CA",
+        "key": "Ouroboros Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1999-04-24",
+        "name": null,
+        "type": null,
+        "city": "El Cajon",
+        "state": "CA",
+        "body_name": "Ouroboros Oasis of CA",
+        "key": "Ouroboros Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1991-03-16",
+        "name": "Uraeus-Hadit",
+        "type": "Encampment",
+        "city": "Memphis",
+        "state": "TN",
+        "body_name": "Uraeus-Hadit Encampment of TN",
+        "key": "Uraeus-Hadit Encampment of TN-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-14",
+        "name": null,
+        "type": null,
+        "city": "Memphis",
+        "state": "TN",
+        "body_name": "Uraeus-Hadit Encampment of TN",
+        "key": "Uraeus-Hadit Encampment of TN-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1991-07-03",
+        "name": "Khonsu Thoth",
+        "type": "Encampment",
+        "city": "Arlington",
+        "state": "TX",
+        "body_name": "Khonsu Thoth Oasis of TX",
+        "key": "Khonsu Thoth Oasis of TX-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1997-10-04",
+        "name": "Khonsu Thoth",
+        "type": "Oasis",
+        "city": "Arlington",
+        "state": "TX",
+        "body_name": "Khonsu Thoth Oasis of TX",
+        "key": "Khonsu Thoth Oasis of TX-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2003-01-19",
+        "name": null,
+        "type": null,
+        "city": "Arlington",
+        "state": "TX",
+        "body_name": "Khonsu Thoth Oasis of TX",
+        "key": "Khonsu Thoth Oasis of TX-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1991-07-03",
+        "name": "Sipapu",
+        "type": "Encampment",
+        "city": "Crestone",
+        "state": "CO",
+        "body_name": "Sipapu Encampment of CO",
+        "key": "Sipapu Encampment of CO-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1993-04-03",
+        "name": null,
+        "type": null,
+        "city": "Crestone",
+        "state": "CO",
+        "body_name": "Sipapu Encampment of CO",
+        "key": "Sipapu Encampment of CO-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-03-14",
+        "name": "AnPu-Ptah-Tum",
+        "type": "Encampment",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "body_name": "AnPu-Ptah-Tum Encampment of OK",
+        "key": "AnPu-Ptah-Tum Encampment of OK-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1995-08-05",
+        "name": null,
+        "type": null,
+        "city": "Oklahoma City",
+        "state": "OK",
+        "body_name": "AnPu-Ptah-Tum Encampment of OK",
+        "key": "AnPu-Ptah-Tum Encampment of OK-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-03-14",
+        "name": "Anubis",
+        "type": "Encampment",
+        "city": "Jacksonville",
+        "state": "AL",
+        "body_name": "Anubis Encampment of AL",
+        "key": "Anubis Encampment of AL-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-07-21",
+        "name": null,
+        "type": null,
+        "city": "Jacksonville",
+        "state": "AL",
+        "body_name": "Anubis Encampment of AL",
+        "key": "Anubis Encampment of AL-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-03-14",
+        "name": "Aster Argos",
+        "type": "Encampment",
+        "city": "Indianapolis",
+        "state": "IN",
+        "body_name": "Aster Argos Encampment of IN",
+        "key": "Aster Argos Encampment of IN-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1993-04-03",
+        "name": null,
+        "type": null,
+        "city": "Indianapolis",
+        "state": "IN",
+        "body_name": "Aster Argos Encampment of IN",
+        "key": "Aster Argos Encampment of IN-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-03-14",
+        "name": "Collegium 93",
+        "type": "Encampment",
+        "city": "Chicago",
+        "state": "IL",
+        "body_name": "Collegium 93 Encampment of IL",
+        "key": "Collegium 93 Encampment of IL-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2000-08-06",
+        "name": null,
+        "type": null,
+        "city": "Chicago",
+        "state": "IL",
+        "body_name": "Collegium 93 Encampment of IL",
+        "key": "Collegium 93 Encampment of IL-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-03-14",
+        "name": "Hassan I Sabbah",
+        "type": "Encampment",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "body_name": "Hassan I Sabbah Encampment of OK",
+        "key": "Hassan I Sabbah Encampment of OK-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-07-21",
+        "name": null,
+        "type": null,
+        "city": "Oklahoma City",
+        "state": "OK",
+        "body_name": "Hassan I Sabbah Encampment of OK",
+        "key": "Hassan I Sabbah Encampment of OK-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-03-14",
+        "name": "Melchezidek",
+        "type": "Encampment",
+        "city": "San Jose",
+        "state": "CA",
+        "body_name": "Melchezidek Encampment of CA",
+        "key": "Melchezidek Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1993-04-03",
+        "name": null,
+        "type": null,
+        "city": "San Jose",
+        "state": "CA",
+        "body_name": "Melchezidek Encampment of CA",
+        "key": "Melchezidek Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-03-14",
+        "name": "Quinta Essentia",
+        "type": "Encampment",
+        "city": "Long Beach",
+        "state": "CA",
+        "body_name": "Quinta Essentia Encampment of CA",
+        "key": "Quinta Essentia Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2003-04-19",
+        "name": null,
+        "type": null,
+        "city": "Long Beach",
+        "state": "CA",
+        "body_name": "Quinta Essentia Encampment of CA",
+        "key": "Quinta Essentia Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-03-14",
+        "name": "Star and Snake",
+        "type": "Encampment",
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Star and Snake Encampment of CA",
+        "key": "Star and Snake Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1994-02-12",
+        "name": null,
+        "type": null,
+        "city": "San Francisco",
+        "state": "CA",
+        "body_name": "Star and Snake Encampment of CA",
+        "key": "Star and Snake Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-03-14",
+        "name": "Syntaxiss",
+        "type": "Encampment",
+        "city": "Atlanta",
+        "state": "GA",
+        "body_name": "Syntaxiss Camp of GA",
+        "key": "Syntaxiss Camp of GA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1992-09-12",
+        "name": null,
+        "type": null,
+        "city": "Atlanta",
+        "state": "GA",
+        "body_name": "Syntaxiss Camp of GA",
+        "key": "Syntaxiss Camp of GA-01"
+    },
+    {
+        "event": "Chartered Anew",
+        "date": "1993-04-03",
+        "name": "Syntaxiss",
+        "type": "Encampment",
+        "city": "Atlanta",
+        "state": "GA",
+        "body_name": "Syntaxiss Camp of GA",
+        "key": "Syntaxiss Camp of GA-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1995-08-05",
+        "name": "Syntaxiss",
+        "type": "Lodge",
+        "city": "Atlanta",
+        "state": "GA",
+        "body_name": "Syntaxiss Camp of GA",
+        "key": "Syntaxiss Camp of GA-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1998-04-04",
+        "name": "Syntaxiss",
+        "type": "Camp",
+        "city": "Atlanta",
+        "state": "GA",
+        "body_name": "Syntaxiss Camp of GA",
+        "key": "Syntaxiss Camp of GA-04"
+    },
+    {
+        "event": "Dissolved Anew",
+        "date": "1998-08-28",
+        "name": null,
+        "type": null,
+        "city": "Atlanta",
+        "state": "GA",
+        "body_name": "Syntaxiss Camp of GA",
+        "key": "Syntaxiss Camp of GA-05"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-03-14",
+        "name": "Tower of High Sorcery",
+        "type": "Encampment",
+        "city": "Eau Clair",
+        "state": "WI",
+        "body_name": "Tower of High Sorcery Encampment of WI",
+        "key": "Tower of High Sorcery Encampment of WI-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1994-02-12",
+        "name": null,
+        "type": null,
+        "city": "Eau Clair",
+        "state": "WI",
+        "body_name": "Tower of High Sorcery Encampment of WI",
+        "key": "Tower of High Sorcery Encampment of WI-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-03-14",
+        "name": "William Blake",
+        "type": "Encampment",
+        "city": "Silver Spring",
+        "state": "MD",
+        "body_name": "William Blake Lodge of VA",
+        "key": "William Blake Lodge of VA-00"
+    },
+    {
+        "event": "Location",
+        "date": "1995-09-16",
+        "name": "William Blake",
+        "type": "Encampment",
+        "city": "Ashburn",
+        "state": "VA",
+        "body_name": "William Blake Lodge of VA",
+        "key": "William Blake Lodge of VA-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1996-09-28",
+        "name": "William Blake",
+        "type": "Oasis",
+        "city": "Ashburn",
+        "state": "VA",
+        "body_name": "William Blake Lodge of VA",
+        "key": "William Blake Lodge of VA-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2007-01-13",
+        "name": "William Blake",
+        "type": "Lodge",
+        "city": "Ashburn",
+        "state": "VA",
+        "body_name": "William Blake Lodge of VA",
+        "key": "William Blake Lodge of VA-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-07-15",
+        "name": "Ruby & Sapphire",
+        "type": "Encampment",
+        "city": "San Diego",
+        "state": "CA",
+        "body_name": "Ruby & Sapphire Encampment of CA",
+        "key": "Ruby & Sapphire Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1999-04-24",
+        "name": null,
+        "type": null,
+        "city": "San Diego",
+        "state": "CA",
+        "body_name": "Ruby & Sapphire Encampment of CA",
+        "key": "Ruby & Sapphire Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1992-07-15",
+        "name": "Xanadu",
+        "type": "Encampment",
+        "city": "Trevose",
+        "state": "PA",
+        "body_name": "Xanadu Oasis of PA",
+        "key": "Xanadu Oasis of PA-00"
+    },
+    {
+        "event": "Location",
+        "date": "2005-01-15",
+        "name": "Xanadu",
+        "type": "Encampment",
+        "city": "Reading",
+        "state": "PA",
+        "body_name": "Xanadu Oasis of PA",
+        "key": "Xanadu Oasis of PA-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2005-04-16",
+        "name": "Xanadu",
+        "type": "Oasis",
+        "city": "Reading",
+        "state": "PA",
+        "body_name": "Xanadu Oasis of PA",
+        "key": "Xanadu Oasis of PA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1993-02-14",
+        "name": "Cromaat",
+        "type": "Encampment",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Cromaat Encampment of WA",
+        "key": "Cromaat Encampment of WA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-04-19",
+        "name": null,
+        "type": null,
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Cromaat Encampment of WA",
+        "key": "Cromaat Encampment of WA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1993-02-14",
+        "name": "Ra Hoor",
+        "type": "Encampment",
+        "city": "Petaluma",
+        "state": "CA",
+        "body_name": "Ra Hoor Encampment of CA",
+        "key": "Ra Hoor Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1994-02-12",
+        "name": null,
+        "type": null,
+        "city": "Petaluma",
+        "state": "CA",
+        "body_name": "Ra Hoor Encampment of CA",
+        "key": "Ra Hoor Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1993-02-14",
+        "name": "Scarlet Woman",
+        "type": "Encampment",
+        "city": "Austin",
+        "state": "TX",
+        "body_name": "Scarlet Woman Lodge of TX",
+        "key": "Scarlet Woman Lodge of TX-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1995-08-05",
+        "name": "Scarlet Woman",
+        "type": "Oasis",
+        "city": "Austin",
+        "state": "TX",
+        "body_name": "Scarlet Woman Lodge of TX",
+        "key": "Scarlet Woman Lodge of TX-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1997-04-19",
+        "name": "Scarlet Woman",
+        "type": "Lodge",
+        "city": "Austin",
+        "state": "TX",
+        "body_name": "Scarlet Woman Lodge of TX",
+        "key": "Scarlet Woman Lodge of TX-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1993-04-03",
+        "name": "Camp of the Sacred Drum",
+        "type": "Encampment",
+        "city": "Lake Elsinore",
+        "state": "CA",
+        "body_name": "Camp of the Sacred Drum Encampment of CA",
+        "key": "Camp of the Sacred Drum Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2000-10-21",
+        "name": null,
+        "type": null,
+        "city": "Lake Elsinore",
+        "state": "CA",
+        "body_name": "Camp of the Sacred Drum Encampment of CA",
+        "key": "Camp of the Sacred Drum Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1993-04-03",
+        "name": "Montsalvat",
+        "type": "Encampment",
+        "city": "Redlands",
+        "state": "CA",
+        "body_name": "Montsalvat Encampment of CA",
+        "key": "Montsalvat Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-04-19",
+        "name": null,
+        "type": null,
+        "city": "Redlands",
+        "state": "CA",
+        "body_name": "Montsalvat Encampment of CA",
+        "key": "Montsalvat Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1993-04-03",
+        "name": "Portland",
+        "type": "Encampment",
+        "city": "Beaverton",
+        "state": "OR",
+        "body_name": "Portland Encampment of OR",
+        "key": "Portland Encampment of OR-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1994-02-12",
+        "name": null,
+        "type": null,
+        "city": "Beaverton",
+        "state": "OR",
+        "body_name": "Portland Encampment of OR",
+        "key": "Portland Encampment of OR-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1993-04-03",
+        "name": "Ra-Heru-Behutet",
+        "type": "Encampment",
+        "city": "Kansas City",
+        "state": "MO",
+        "body_name": "Heru Behutet Oasis of MO",
+        "key": "Heru Behutet Oasis of MO-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "2000-04-29",
+        "name": "Heru Behutet",
+        "type": "Oasis",
+        "city": "Kansas City",
+        "state": "MO",
+        "body_name": "Heru Behutet Oasis of MO",
+        "key": "Heru Behutet Oasis of MO-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1993-04-03",
+        "name": "Rosa Mundi",
+        "type": "Encampment",
+        "city": "York",
+        "state": "PA",
+        "body_name": "Rosa Mundi Encampment of PA",
+        "key": "Rosa Mundi Encampment of PA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1998-08-28",
+        "name": null,
+        "type": null,
+        "city": "York",
+        "state": "PA",
+        "body_name": "Rosa Mundi Encampment of PA",
+        "key": "Rosa Mundi Encampment of PA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1993-04-03",
+        "name": "Star and Snake",
+        "type": "Encampment",
+        "city": "Omaha",
+        "state": "NE",
+        "body_name": "Star and Snake Encampment of NE",
+        "key": "Star and Snake Encampment of NE-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-10-13",
+        "name": null,
+        "type": null,
+        "city": "Omaha",
+        "state": "NE",
+        "body_name": "Star and Snake Encampment of NE",
+        "key": "Star and Snake Encampment of NE-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1993-08-25",
+        "name": "Ram of Mendes",
+        "type": "Encampment",
+        "city": "Scotland",
+        "state": "PA",
+        "body_name": "Ram of Mendes Encampment of PA",
+        "key": "Ram of Mendes Encampment of PA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-04-19",
+        "name": null,
+        "type": null,
+        "city": "Scotland",
+        "state": "PA",
+        "body_name": "Ram of Mendes Encampment of PA",
+        "key": "Ram of Mendes Encampment of PA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1993-08-25",
+        "name": "Starry Arch",
+        "type": "Encampment",
+        "city": "St Louis",
+        "state": "MO",
+        "body_name": "Starry Arch Encampment of MO",
+        "key": "Starry Arch Encampment of MO-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2006-01-14",
+        "name": null,
+        "type": null,
+        "city": "St Louis",
+        "state": "MO",
+        "body_name": "Starry Arch Encampment of MO",
+        "key": "Starry Arch Encampment of MO-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Adonis Apophis",
+        "type": "Encampment",
+        "city": "Gladstone",
+        "state": "OR",
+        "body_name": "Adonis Apophis Encampment of OR",
+        "key": "Adonis Apophis Encampment of OR-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2000-02-06",
+        "name": null,
+        "type": null,
+        "city": "Gladstone",
+        "state": "OR",
+        "body_name": "Adonis Apophis Encampment of OR",
+        "key": "Adonis Apophis Encampment of OR-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Ankh Forest",
+        "type": "Encampment",
+        "city": "Omaha",
+        "state": "NE",
+        "body_name": "Ankh Forest Encampment of NE",
+        "key": "Ankh Forest Encampment of NE-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2000-04-29",
+        "name": null,
+        "type": null,
+        "city": "Omaha",
+        "state": "NE",
+        "body_name": "Ankh Forest Encampment of NE",
+        "key": "Ankh Forest Encampment of NE-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Aum Ha",
+        "type": "Encampment",
+        "city": "Chicago",
+        "state": "IL",
+        "body_name": "Aum Ha Lodge of IL",
+        "key": "Aum Ha Lodge of IL-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2006-10-14",
+        "name": "Aum Ha",
+        "type": "Oasis",
+        "city": "Chicago",
+        "state": "IL",
+        "body_name": "Aum Ha Lodge of IL",
+        "key": "Aum Ha Lodge of IL-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2010-07-17",
+        "name": "Aum Ha",
+        "type": "Lodge",
+        "city": "Chicago",
+        "state": "IL",
+        "body_name": "Aum Ha Lodge of IL",
+        "key": "Aum Ha Lodge of IL-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Chango",
+        "type": "Encampment",
+        "city": "Denton",
+        "state": "TX",
+        "body_name": "Chango Encampment of TX",
+        "key": "Chango Encampment of TX-00"
+    },
+    {
+        "event": "Location",
+        "date": "1997-04-19",
+        "name": "Chango",
+        "type": "Encampment",
+        "city": "Lewsville",
+        "state": "TX",
+        "body_name": "Chango Encampment of TX",
+        "key": "Chango Encampment of TX-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2000-02-06",
+        "name": null,
+        "type": null,
+        "city": "Lewsville",
+        "state": "TX",
+        "body_name": "Chango Encampment of TX",
+        "key": "Chango Encampment of TX-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Eleusinian Diarchy",
+        "type": "Encampment",
+        "city": "Parma",
+        "state": "OH",
+        "body_name": "Eleusinian Diarchy Encampment of OH",
+        "key": "Eleusinian Diarchy Encampment of OH-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-04-19",
+        "name": null,
+        "type": null,
+        "city": "Parma",
+        "state": "OH",
+        "body_name": "Eleusinian Diarchy Encampment of OH",
+        "key": "Eleusinian Diarchy Encampment of OH-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Hawk Headed Mystical Lord",
+        "type": "Encampment",
+        "city": "Mesa",
+        "state": "AZ",
+        "body_name": "Hawk Headed Mystical Lord Encampment of AZ",
+        "key": "Hawk Headed Mystical Lord Encampment of AZ-00"
+    },
+    {
+        "event": "Location",
+        "date": "1995-09-16",
+        "name": "Hawk Headed Mystical Lord",
+        "type": "Encampment",
+        "city": "Flagstaff",
+        "state": "AZ",
+        "body_name": "Hawk Headed Mystical Lord Encampment of AZ",
+        "key": "Hawk Headed Mystical Lord Encampment of AZ-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-04-19",
+        "name": null,
+        "type": null,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "body_name": "Hawk Headed Mystical Lord Encampment of AZ",
+        "key": "Hawk Headed Mystical Lord Encampment of AZ-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Hodos Chamelionis",
+        "type": "Encampment",
+        "city": "Fair Oaks",
+        "state": "CA",
+        "body_name": "Hodos Chamelionis Oasis of CA",
+        "key": "Hodos Chamelionis Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1999-10-23",
+        "name": "Hodos Chamelionis",
+        "type": "Oasis",
+        "city": "Fair Oaks",
+        "state": "CA",
+        "body_name": "Hodos Chamelionis Oasis of CA",
+        "key": "Hodos Chamelionis Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2000-10-21",
+        "name": null,
+        "type": null,
+        "city": "Fair Oaks",
+        "state": "CA",
+        "body_name": "Hodos Chamelionis Oasis of CA",
+        "key": "Hodos Chamelionis Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Khaallah-i-Nur",
+        "type": "Encampment",
+        "city": "Gresham",
+        "state": "OR",
+        "body_name": "Khaallah-i-Nur Oasis of OR",
+        "key": "Khaallah-i-Nur Oasis of OR-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1998-09-26",
+        "name": "Khaallah-i-Nur",
+        "type": "Oasis",
+        "city": "Gresham",
+        "state": "OR",
+        "body_name": "Khaallah-i-Nur Oasis of OR",
+        "key": "Khaallah-i-Nur Oasis of OR-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-03-21",
+        "name": null,
+        "type": null,
+        "city": "Gresham",
+        "state": "OR",
+        "body_name": "Khaallah-i-Nur Oasis of OR",
+        "key": "Khaallah-i-Nur Oasis of OR-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Leaping Laughter",
+        "type": "Encampment",
+        "city": "Minneapolis",
+        "state": "MN",
+        "body_name": "Leaping Laughter Lodge of MN",
+        "key": "Leaping Laughter Lodge of MN-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2001-03-01",
+        "name": "Leaping Laughter",
+        "type": "Oasis",
+        "city": "Minneapolis",
+        "state": "MN",
+        "body_name": "Leaping Laughter Lodge of MN",
+        "key": "Leaping Laughter Lodge of MN-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2002-04-27",
+        "name": "Leaping Laughter",
+        "type": "Lodge",
+        "city": "Minneapolis",
+        "state": "MN",
+        "body_name": "Leaping Laughter Lodge of MN",
+        "key": "Leaping Laughter Lodge of MN-02"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2003-01-19",
+        "name": "Leaping Laughter",
+        "type": "Oasis",
+        "city": "Minneapolis",
+        "state": "MN",
+        "body_name": "Leaping Laughter Lodge of MN",
+        "key": "Leaping Laughter Lodge of MN-03"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2005-07-23",
+        "name": "Leaping Laughter",
+        "type": "Lodge",
+        "city": "Minneapolis",
+        "state": "MN",
+        "body_name": "Leaping Laughter Lodge of MN",
+        "key": "Leaping Laughter Lodge of MN-04"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Mountain",
+        "type": "Encampment",
+        "city": "Phoenix",
+        "state": "AZ",
+        "body_name": "Mountain Encampment of AZ",
+        "key": "Mountain Encampment of AZ-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1996-09-28",
+        "name": null,
+        "type": null,
+        "city": "Phoenix",
+        "state": "AZ",
+        "body_name": "Mountain Encampment of AZ",
+        "key": "Mountain Encampment of AZ-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "OAI",
+        "type": "Encampment",
+        "city": "Albuquerque",
+        "state": "NM",
+        "body_name": "OAI Encampment of NM",
+        "key": "OAI Encampment of NM-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-07-21",
+        "name": null,
+        "type": null,
+        "city": "Albuquerque",
+        "state": "NM",
+        "body_name": "OAI Encampment of NM",
+        "key": "OAI Encampment of NM-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Pangenitor",
+        "type": "Lodge",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Pangenitor Lodge of CA",
+        "key": "Pangenitor Lodge of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1996-09-28",
+        "name": null,
+        "type": null,
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Pangenitor Lodge of CA",
+        "key": "Pangenitor Lodge of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Panurge",
+        "type": "Encampment",
+        "city": "Portland",
+        "state": "OR",
+        "body_name": "Panurge Encampment of OR",
+        "key": "Panurge Encampment of OR-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-03-21",
+        "name": null,
+        "type": null,
+        "city": "Portland",
+        "state": "OR",
+        "body_name": "Panurge Encampment of OR",
+        "key": "Panurge Encampment of OR-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Sekhet-Maat",
+        "type": "Encampment",
+        "city": "Portland",
+        "state": "OR",
+        "body_name": "Sekhet-Maat Lodge of OR",
+        "key": "Sekhet-Maat Lodge of OR-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1997-10-04",
+        "name": "Sekhet-Maat",
+        "type": "Oasis",
+        "city": "Portland",
+        "state": "OR",
+        "body_name": "Sekhet-Maat Lodge of OR",
+        "key": "Sekhet-Maat Lodge of OR-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2000-08-06",
+        "name": "Sekhet-Maat",
+        "type": "Lodge",
+        "city": "Portland",
+        "state": "OR",
+        "body_name": "Sekhet-Maat Lodge of OR",
+        "key": "Sekhet-Maat Lodge of OR-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1994-09-10",
+        "name": "Thien Tao",
+        "type": "Oasis",
+        "city": "Phoenix",
+        "state": "AZ",
+        "body_name": "Thien Tao Oasis of AZ",
+        "key": "Thien Tao Oasis of AZ-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1997-04-19",
+        "name": "Thien Tao",
+        "type": "Lodge",
+        "city": "Phoenix",
+        "state": "AZ",
+        "body_name": "Thien Tao Oasis of AZ",
+        "key": "Thien Tao Oasis of AZ-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2002-09-28",
+        "name": "Thien Tao",
+        "type": "Oasis",
+        "city": "Phoenix",
+        "state": "AZ",
+        "body_name": "Thien Tao Oasis of AZ",
+        "key": "Thien Tao Oasis of AZ-02"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2003-04-19",
+        "name": null,
+        "type": null,
+        "city": "Phoenix",
+        "state": "AZ",
+        "body_name": "Thien Tao Oasis of AZ",
+        "key": "Thien Tao Oasis of AZ-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1995-04-01",
+        "name": "Continuous One of Heaven",
+        "type": "Encampment",
+        "city": "Pebble Beach",
+        "state": "CA",
+        "body_name": "Continuous One of Heaven Encampment of CA",
+        "key": "Continuous One of Heaven Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-07-21",
+        "name": null,
+        "type": null,
+        "city": "Pebble Beach",
+        "state": "CA",
+        "body_name": "Continuous One of Heaven Encampment of CA",
+        "key": "Continuous One of Heaven Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1995-04-01",
+        "name": "Penelous Flame",
+        "type": "Encampment",
+        "city": "Pawtucket",
+        "state": "RI",
+        "body_name": "Penelous Flame Encampment of RI",
+        "key": "Penelous Flame Encampment of RI-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-04-19",
+        "name": null,
+        "type": null,
+        "city": "Pawtucket",
+        "state": "RI",
+        "body_name": "Penelous Flame Encampment of RI",
+        "key": "Penelous Flame Encampment of RI-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1995-04-01",
+        "name": "Rosslyn",
+        "type": "Encampment",
+        "city": "Hayward",
+        "state": "CA",
+        "body_name": "Rosslyn Encampment of CA",
+        "key": "Rosslyn Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2002-04-27",
+        "name": null,
+        "type": null,
+        "city": "Hayward",
+        "state": "CA",
+        "body_name": "Rosslyn Encampment of CA",
+        "key": "Rosslyn Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1995-04-01",
+        "name": "Sekhmet-Uraeus",
+        "type": "Encampment",
+        "city": "Royal Oak",
+        "state": "MI",
+        "body_name": "Blue Equinox Oasis of MI",
+        "key": "Blue Equinox Oasis of MI-00"
+    },
+    {
+        "event": "Renamed",
+        "date": "2000-02-06",
+        "name": "Blue Equinox",
+        "type": "Encampment",
+        "city": "Royal Oak",
+        "state": "MI",
+        "body_name": "Blue Equinox Oasis of MI",
+        "key": "Blue Equinox Oasis of MI-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2000-04-29",
+        "name": "Blue Equinox",
+        "type": "Oasis",
+        "city": "Royal Oak",
+        "state": "MI",
+        "body_name": "Blue Equinox Oasis of MI",
+        "key": "Blue Equinox Oasis of MI-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1995-09-16",
+        "name": "Anaitis",
+        "type": "Encampment",
+        "city": "Richmond",
+        "state": "VA",
+        "body_name": "Anaitis Encampment of VA",
+        "key": "Anaitis Encampment of VA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1998-08-28",
+        "name": null,
+        "type": null,
+        "city": "Richmond",
+        "state": "VA",
+        "body_name": "Anaitis Encampment of VA",
+        "key": "Anaitis Encampment of VA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1995-09-16",
+        "name": "Mysterium Conjunctionis",
+        "type": "Encampment",
+        "city": "Terre Haute",
+        "state": "IN",
+        "body_name": "Mysterium Conjunctionis Encampment of IN",
+        "key": "Mysterium Conjunctionis Encampment of IN-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-10-04",
+        "name": null,
+        "type": null,
+        "city": "Terre Haute",
+        "state": "IN",
+        "body_name": "Mysterium Conjunctionis Encampment of IN",
+        "key": "Mysterium Conjunctionis Encampment of IN-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1995-09-16",
+        "name": "Nu-Babalon",
+        "type": "Encampment",
+        "city": "Las Vegas",
+        "state": "NV",
+        "body_name": "Nu-Babalon Encampment of NV",
+        "key": "Nu-Babalon Encampment of NV-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2000-04-29",
+        "name": null,
+        "type": null,
+        "city": "Las Vegas",
+        "state": "NV",
+        "body_name": "Nu-Babalon Encampment of NV",
+        "key": "Nu-Babalon Encampment of NV-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1995-09-16",
+        "name": "Saladin",
+        "type": "Encampment",
+        "city": "San Antonio",
+        "state": "TX",
+        "body_name": "Saladin Oasis of TX",
+        "key": "Saladin Oasis of TX-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1999-10-23",
+        "name": "Saladin",
+        "type": "Oasis",
+        "city": "San Antonio",
+        "state": "TX",
+        "body_name": "Saladin Oasis of TX",
+        "key": "Saladin Oasis of TX-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2002-09-28",
+        "name": null,
+        "type": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "body_name": "Saladin Oasis of TX",
+        "key": "Saladin Oasis of TX-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1995-09-16",
+        "name": "To Mega Therion",
+        "type": "Encampment",
+        "city": "Galveston",
+        "state": "TX",
+        "body_name": "To Mega Therion Encampment of TX",
+        "key": "To Mega Therion Encampment of TX-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1998-08-28",
+        "name": null,
+        "type": null,
+        "city": "Galveston",
+        "state": "TX",
+        "body_name": "To Mega Therion Encampment of TX",
+        "key": "To Mega Therion Encampment of TX-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1995-09-16",
+        "name": "Ra Harakte",
+        "type": "Lodge",
+        "city": "Atlantic Beach",
+        "state": "FL",
+        "body_name": "Ra Harakte Camp of FL",
+        "key": "Ra Harakte Camp of FL-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1997-10-04",
+        "name": "Ra Harakte",
+        "type": "Camp",
+        "city": "Atlantic Beach",
+        "state": "FL",
+        "body_name": "Ra Harakte Camp of FL",
+        "key": "Ra Harakte Camp of FL-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-03-21",
+        "name": null,
+        "type": null,
+        "city": "Atlantic Beach",
+        "state": "FL",
+        "body_name": "Ra Harakte Camp of FL",
+        "key": "Ra Harakte Camp of FL-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1996-09-28",
+        "name": "Alamut",
+        "type": "Encampment",
+        "city": "San Antonio",
+        "state": "TX",
+        "body_name": "Alamut Encampment of TX",
+        "key": "Alamut Encampment of TX-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-07-21",
+        "name": null,
+        "type": null,
+        "city": "San Antonio",
+        "state": "TX",
+        "body_name": "Alamut Encampment of TX",
+        "key": "Alamut Encampment of TX-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1996-09-28",
+        "name": "Iona",
+        "type": "Encampment",
+        "city": "Claremont",
+        "state": "CA",
+        "body_name": "Iona Encampment of CA",
+        "key": "Iona Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1999-04-24",
+        "name": null,
+        "type": null,
+        "city": "Claremont",
+        "state": "CA",
+        "body_name": "Iona Encampment of CA",
+        "key": "Iona Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1996-09-28",
+        "name": "Lion and Serpent",
+        "type": "Encampment",
+        "city": "Beverly Hills",
+        "state": "CA",
+        "body_name": "Lion and Serpent Encampment of CA",
+        "key": "Lion and Serpent Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1997-04-19",
+        "name": null,
+        "type": null,
+        "city": "Beverly Hills",
+        "state": "CA",
+        "body_name": "Lion and Serpent Encampment of CA",
+        "key": "Lion and Serpent Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1996-09-28",
+        "name": "Mons Abiegnus",
+        "type": "Encampment",
+        "city": "San Anselmo",
+        "state": "CA",
+        "body_name": "Mons Abiegnus Oasis of CA",
+        "key": "Mons Abiegnus Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1997-10-04",
+        "name": "Mons Abiegnus",
+        "type": "Oasis",
+        "city": "San Anselmo",
+        "state": "CA",
+        "body_name": "Mons Abiegnus Oasis of CA",
+        "key": "Mons Abiegnus Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2009-01-10",
+        "name": null,
+        "type": null,
+        "city": "San Anselmo",
+        "state": "CA",
+        "body_name": "Mons Abiegnus Oasis of CA",
+        "key": "Mons Abiegnus Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1996-09-28",
+        "name": "Serpent in Balance",
+        "type": "Encampment",
+        "city": "Orlando",
+        "state": "FL",
+        "body_name": "Serpent in Balance Oasis of FL",
+        "key": "Serpent in Balance Oasis of FL-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1998-09-26",
+        "name": "Serpent in Balance",
+        "type": "Oasis",
+        "city": "Orlando",
+        "state": "FL",
+        "body_name": "Serpent in Balance Oasis of FL",
+        "key": "Serpent in Balance Oasis of FL-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2004-04-17",
+        "name": null,
+        "type": null,
+        "city": "Orlando",
+        "state": "FL",
+        "body_name": "Serpent in Balance Oasis of FL",
+        "key": "Serpent in Balance Oasis of FL-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1996-09-28",
+        "name": "Watchtower",
+        "type": "Encampment",
+        "city": "Bon Aqua",
+        "state": "TN",
+        "body_name": "Watchtower Oasis of TN",
+        "key": "Watchtower Oasis of TN-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2000-04-29",
+        "name": "Watchtower",
+        "type": "Oasis",
+        "city": "Bon Aqua",
+        "state": "TN",
+        "body_name": "Watchtower Oasis of TN",
+        "key": "Watchtower Oasis of TN-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-03-21",
+        "name": null,
+        "type": null,
+        "city": "Bon Aqua",
+        "state": "TN",
+        "body_name": "Watchtower Oasis of TN",
+        "key": "Watchtower Oasis of TN-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-04-19",
+        "name": "Hrumachis",
+        "type": "Encampment",
+        "city": "Allentown",
+        "state": "PA",
+        "body_name": "Hrumachis Encampment of PA",
+        "key": "Hrumachis Encampment of PA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2003-04-19",
+        "name": null,
+        "type": null,
+        "city": "Allentown",
+        "state": "PA",
+        "body_name": "Hrumachis Encampment of PA",
+        "key": "Hrumachis Encampment of PA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-04-19",
+        "name": "Lilith",
+        "type": "Encampment",
+        "city": "Athens",
+        "state": "GA",
+        "body_name": "Lilith Encampment of GA",
+        "key": "Lilith Encampment of GA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-09-29",
+        "name": null,
+        "type": null,
+        "city": "Athens",
+        "state": "GA",
+        "body_name": "Lilith Encampment of GA",
+        "key": "Lilith Encampment of GA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-04-19",
+        "name": "Magick",
+        "type": "Encampment",
+        "city": "Columbus",
+        "state": "OH",
+        "body_name": "Magick Encampment of OH",
+        "key": "Magick Encampment of OH-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-03-21",
+        "name": null,
+        "type": null,
+        "city": "Columbus",
+        "state": "OH",
+        "body_name": "Magick Encampment of OH",
+        "key": "Magick Encampment of OH-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-04-19",
+        "name": "Morigan",
+        "type": "Encampment",
+        "city": "Baltimore",
+        "state": "MD",
+        "body_name": "Morigan Encampment of MD",
+        "key": "Morigan Encampment of MD-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2000-10-21",
+        "name": null,
+        "type": null,
+        "city": "Baltimore",
+        "state": "MD",
+        "body_name": "Morigan Encampment of MD",
+        "key": "Morigan Encampment of MD-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-04-19",
+        "name": "Queen of Heaven",
+        "type": "Encampment",
+        "city": "Portland",
+        "state": "OR",
+        "body_name": "Queen of Heaven Lodge of OR",
+        "key": "Queen of Heaven Lodge of OR-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1999-04-24",
+        "name": "Queen of Heaven",
+        "type": "Lodge",
+        "city": "Portland",
+        "state": "OR",
+        "body_name": "Queen of Heaven Lodge of OR",
+        "key": "Queen of Heaven Lodge of OR-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2004-04-17",
+        "name": null,
+        "type": null,
+        "city": "Portland",
+        "state": "OR",
+        "body_name": "Queen of Heaven Lodge of OR",
+        "key": "Queen of Heaven Lodge of OR-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-04-19",
+        "name": "Serpentine Splendour",
+        "type": "Encampment",
+        "city": "Las Vegas",
+        "state": "NV",
+        "body_name": "Serpentine Splendour Lodge of NV",
+        "key": "Serpentine Splendour Lodge of NV-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1999-06-11",
+        "name": "Serpentine Splendour",
+        "type": "Oasis",
+        "city": "Las Vegas",
+        "state": "NV",
+        "body_name": "Serpentine Splendour Lodge of NV",
+        "key": "Serpentine Splendour Lodge of NV-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2001-03-01",
+        "name": "Serpentine Splendour",
+        "type": "Lodge",
+        "city": "Las Vegas",
+        "state": "NV",
+        "body_name": "Serpentine Splendour Lodge of NV",
+        "key": "Serpentine Splendour Lodge of NV-02"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2007-04-15",
+        "name": null,
+        "type": null,
+        "city": "Las Vegas",
+        "state": "NV",
+        "body_name": "Serpentine Splendour Lodge of NV",
+        "key": "Serpentine Splendour Lodge of NV-03"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-04-19",
+        "name": "Soul of the Desert",
+        "type": "Encampment",
+        "city": "Santa Fe",
+        "state": "NM",
+        "body_name": "Soul of the Desert Oasis of NM",
+        "key": "Soul of the Desert Oasis of NM-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2002-09-28",
+        "name": "Soul of the Desert",
+        "type": "Oasis",
+        "city": "Santa Fe",
+        "state": "NM",
+        "body_name": "Soul of the Desert Oasis of NM",
+        "key": "Soul of the Desert Oasis of NM-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2005-07-23",
+        "name": null,
+        "type": null,
+        "city": "Santa Fe",
+        "state": "NM",
+        "body_name": "Soul of the Desert Oasis of NM",
+        "key": "Soul of the Desert Oasis of NM-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-04-19",
+        "name": "Throne of Ra",
+        "type": "Encampment",
+        "city": "Honolulu",
+        "state": "HI",
+        "body_name": "Throne of Ra Encampment of HI",
+        "key": "Throne of Ra Encampment of HI-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2002-07-21",
+        "name": null,
+        "type": null,
+        "city": "Honolulu",
+        "state": "HI",
+        "body_name": "Throne of Ra Encampment of HI",
+        "key": "Throne of Ra Encampment of HI-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-07-21",
+        "name": "Living Flame",
+        "type": "Encampment",
+        "city": "Martinsburg",
+        "state": "WV",
+        "body_name": "Living Flame Encampment of MA",
+        "key": "Living Flame Encampment of MA-00"
+    },
+    {
+        "event": "Location",
+        "date": "2000-04-29",
+        "name": "Living Flame",
+        "type": "Encampment",
+        "city": "Gaithersburg",
+        "state": "MA",
+        "body_name": "Living Flame Encampment of MA",
+        "key": "Living Flame Encampment of MA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-03-21",
+        "name": null,
+        "type": null,
+        "city": "Gaithersburg",
+        "state": "MA",
+        "body_name": "Living Flame Encampment of MA",
+        "key": "Living Flame Encampment of MA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-07-21",
+        "name": "Madimi",
+        "type": "Encampment",
+        "city": "Albuquerque",
+        "state": "NM",
+        "body_name": "Madimi Encampment of NM",
+        "key": "Madimi Encampment of NM-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2002-09-28",
+        "name": null,
+        "type": null,
+        "city": "Albuquerque",
+        "state": "NM",
+        "body_name": "Madimi Encampment of NM",
+        "key": "Madimi Encampment of NM-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-07-21",
+        "name": "Thelesis",
+        "type": "Encampment",
+        "city": "Philadelphia",
+        "state": "PA",
+        "body_name": "Thelesis Lodge of PA",
+        "key": "Thelesis Lodge of PA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2005-10-22",
+        "name": "Thelesis",
+        "type": "Oasis",
+        "city": "Philadelphia",
+        "state": "PA",
+        "body_name": "Thelesis Lodge of PA",
+        "key": "Thelesis Lodge of PA-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2008-04-19",
+        "name": "Thelesis",
+        "type": "Lodge",
+        "city": "Philadelphia",
+        "state": "PA",
+        "body_name": "Thelesis Lodge of PA",
+        "key": "Thelesis Lodge of PA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-10-04",
+        "name": "Alostrael",
+        "type": "Encampment",
+        "city": "Calera",
+        "state": "AL",
+        "body_name": "Alostrael Oasis of AL",
+        "key": "Alostrael Oasis of AL-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "1998-09-26",
+        "name": "Alostrael",
+        "type": "Oasis",
+        "city": "Calera",
+        "state": "AL",
+        "body_name": "Alostrael Oasis of AL",
+        "key": "Alostrael Oasis of AL-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-03-21",
+        "name": null,
+        "type": null,
+        "city": "Calera",
+        "state": "AL",
+        "body_name": "Alostrael Oasis of AL",
+        "key": "Alostrael Oasis of AL-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1997-10-04",
+        "name": "Golden Apple",
+        "type": "Encampment",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Golden Apple Encampment of WA",
+        "key": "Golden Apple Encampment of WA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-03-21",
+        "name": null,
+        "type": null,
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Golden Apple Encampment of WA",
+        "key": "Golden Apple Encampment of WA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1998-04-04",
+        "name": "Akeru",
+        "type": "Encampment",
+        "city": "Sugar Loaf",
+        "state": "NY",
+        "body_name": "Akeru Encampment of NY",
+        "key": "Akeru Encampment of NY-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2000-04-29",
+        "name": null,
+        "type": null,
+        "city": "Sugar Loaf",
+        "state": "NY",
+        "body_name": "Akeru Encampment of NY",
+        "key": "Akeru Encampment of NY-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1998-04-04",
+        "name": "Solve-Coagula",
+        "type": "Encampment",
+        "city": "Carrollton",
+        "state": "GA",
+        "body_name": "Solve-Coagula Encampment of GA",
+        "key": "Solve-Coagula Encampment of GA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-09-29",
+        "name": null,
+        "type": null,
+        "city": "Carrollton",
+        "state": "GA",
+        "body_name": "Solve-Coagula Encampment of GA",
+        "key": "Solve-Coagula Encampment of GA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1998-08-28",
+        "name": "Domina Nostra Astrorum",
+        "type": "Encampment",
+        "city": "Lansing",
+        "state": "MI",
+        "body_name": "Domina Nostra Astrorum Encampment of MI",
+        "key": "Domina Nostra Astrorum Encampment of MI-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2004-04-17",
+        "name": null,
+        "type": null,
+        "city": "Lansing",
+        "state": "MI",
+        "body_name": "Domina Nostra Astrorum Encampment of MI",
+        "key": "Domina Nostra Astrorum Encampment of MI-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1998-08-28",
+        "name": "Inanna-Nuit",
+        "type": "Encampment",
+        "city": "Vancouver",
+        "state": "WA",
+        "body_name": "Inanna-Nuit Encampment of WA",
+        "key": "Inanna-Nuit Encampment of WA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "1999-04-24",
+        "name": null,
+        "type": null,
+        "city": "Vancouver",
+        "state": "WA",
+        "body_name": "Inanna-Nuit Encampment of WA",
+        "key": "Inanna-Nuit Encampment of WA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1998-08-28",
+        "name": "Kom-Om-Bo",
+        "type": "Encampment",
+        "city": "New Orleans",
+        "state": "LA",
+        "body_name": "Kom-Om-Bo Encampment of LA",
+        "key": "Kom-Om-Bo Encampment of LA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2002-09-28",
+        "name": null,
+        "type": null,
+        "city": "New Orleans",
+        "state": "LA",
+        "body_name": "Kom-Om-Bo Encampment of LA",
+        "key": "Kom-Om-Bo Encampment of LA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1998-09-26",
+        "name": "Onnophris",
+        "type": "Encampment",
+        "city": "Indianapolis",
+        "state": "IN",
+        "body_name": "Onnophris Oasis of IN",
+        "key": "Onnophris Oasis of IN-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2002-04-27",
+        "name": "Onnophris",
+        "type": "Oasis",
+        "city": "Indianapolis",
+        "state": "IN",
+        "body_name": "Onnophris Oasis of IN",
+        "key": "Onnophris Oasis of IN-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2010-07-17",
+        "name": null,
+        "type": null,
+        "city": "Indianapolis",
+        "state": "IN",
+        "body_name": "Onnophris Oasis of IN",
+        "key": "Onnophris Oasis of IN-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1998-09-26",
+        "name": "Sun & Moon",
+        "type": "Encampment",
+        "city": "Tucson",
+        "state": "AZ",
+        "body_name": "Sun & Moon Encampment of AZ",
+        "key": "Sun & Moon Encampment of AZ-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2002-01-06",
+        "name": null,
+        "type": null,
+        "city": "Tucson",
+        "state": "AZ",
+        "body_name": "Sun & Moon Encampment of AZ",
+        "key": "Sun & Moon Encampment of AZ-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1999-04-24",
+        "name": "Golden Lotus",
+        "type": "Encampment",
+        "city": "Mission Viejo",
+        "state": "CA",
+        "body_name": "Golden Lotus Oasis of CA",
+        "key": "Golden Lotus Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2007-01-13",
+        "name": "Golden Lotus",
+        "type": "Oasis",
+        "city": "Mission Viejo",
+        "state": "CA",
+        "body_name": "Golden Lotus Oasis of CA",
+        "key": "Golden Lotus Oasis of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1999-04-24",
+        "name": "Master Therion",
+        "type": "Encampment",
+        "city": "Milwaukee",
+        "state": "WI",
+        "body_name": "Master Therion Encampment of WI",
+        "key": "Master Therion Encampment of WI-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-10-21",
+        "name": null,
+        "type": null,
+        "city": "Milwaukee",
+        "state": "WI",
+        "body_name": "Master Therion Encampment of WI",
+        "key": "Master Therion Encampment of WI-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1999-04-24",
+        "name": "Netmet Ankh",
+        "type": "Encampment",
+        "city": "Braselton",
+        "state": "GA",
+        "body_name": "Netmet Ankh Encampment of GA",
+        "key": "Netmet Ankh Encampment of GA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2000-05-31",
+        "name": null,
+        "type": null,
+        "city": "Braselton",
+        "state": "GA",
+        "body_name": "Netmet Ankh Encampment of GA",
+        "key": "Netmet Ankh Encampment of GA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1999-04-24",
+        "name": "Swirling Star",
+        "type": "Encampment",
+        "city": "Miami",
+        "state": "FL",
+        "body_name": "Swirling Star Lodge of FL",
+        "key": "Swirling Star Lodge of FL-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2003-07-20",
+        "name": "Swirling Star",
+        "type": "Oasis",
+        "city": "Miami",
+        "state": "FL",
+        "body_name": "Swirling Star Lodge of FL",
+        "key": "Swirling Star Lodge of FL-01"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2012-01-07",
+        "name": "Swirling Star",
+        "type": "Lodge",
+        "city": "Miami",
+        "state": "FL",
+        "body_name": "Swirling Star Lodge of FL",
+        "key": "Swirling Star Lodge of FL-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "1999-04-24",
+        "name": "Yggdrasil",
+        "type": "Encampment",
+        "city": "Marietta",
+        "state": "GA",
+        "body_name": "Yggdrasil Encampment of GA",
+        "key": "Yggdrasil Encampment of GA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-09-29",
+        "name": null,
+        "type": null,
+        "city": "Marietta",
+        "state": "GA",
+        "body_name": "Yggdrasil Encampment of GA",
+        "key": "Yggdrasil Encampment of GA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1999-06-11",
+        "name": "Equilibrium",
+        "type": "Encampment",
+        "city": "Norcross",
+        "state": "GA",
+        "body_name": "Equilibrium Encampment of GA",
+        "key": "Equilibrium Encampment of GA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-09-29",
+        "name": null,
+        "type": null,
+        "city": "Norcross",
+        "state": "GA",
+        "body_name": "Equilibrium Encampment of GA",
+        "key": "Equilibrium Encampment of GA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1999-06-11",
+        "name": "Ophis Nikator",
+        "type": "Encampment",
+        "city": "Norfolk",
+        "state": "VA",
+        "body_name": "Ophis Nikator Encampment of VA",
+        "key": "Ophis Nikator Encampment of VA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2005-04-16",
+        "name": null,
+        "type": null,
+        "city": "Norfolk",
+        "state": "VA",
+        "body_name": "Ophis Nikator Encampment of VA",
+        "key": "Ophis Nikator Encampment of VA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1999-10-23",
+        "name": "Agartha",
+        "type": "Encampment",
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Agartha Encampment of WA",
+        "key": "Agartha Encampment of WA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2002-07-21",
+        "name": null,
+        "type": null,
+        "city": "Seattle",
+        "state": "WA",
+        "body_name": "Agartha Encampment of WA",
+        "key": "Agartha Encampment of WA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "1999-10-23",
+        "name": "Sancta Meretrix",
+        "type": "Encampment",
+        "city": "W. Lafayette",
+        "state": "IN",
+        "body_name": "Sancta Meretrix Encampment of IN",
+        "key": "Sancta Meretrix Encampment of IN-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2000-10-21",
+        "name": null,
+        "type": null,
+        "city": "W. Lafayette",
+        "state": "IN",
+        "body_name": "Sancta Meretrix Encampment of IN",
+        "key": "Sancta Meretrix Encampment of IN-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2000-02-06",
+        "name": "Gasparilla",
+        "type": "Encampment",
+        "city": "Tampa",
+        "state": "FL",
+        "body_name": "Gasparilla Encampment of FL",
+        "key": "Gasparilla Encampment of FL-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-03-21",
+        "name": null,
+        "type": null,
+        "city": "Tampa",
+        "state": "FL",
+        "body_name": "Gasparilla Encampment of FL",
+        "key": "Gasparilla Encampment of FL-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2000-04-29",
+        "name": "Ad Astra",
+        "type": "Encampment",
+        "city": "Arvada",
+        "state": "CO",
+        "body_name": "Ad Astra Oasis of CO",
+        "key": "Ad Astra Oasis of CO-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2005-10-23",
+        "name": "Ad Astra",
+        "type": "Oasis",
+        "city": "Arvada",
+        "state": "CO",
+        "body_name": "Ad Astra Oasis of CO",
+        "key": "Ad Astra Oasis of CO-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2010-07-17",
+        "name": null,
+        "type": null,
+        "city": "Arvada",
+        "state": "CO",
+        "body_name": "Ad Astra Oasis of CO",
+        "key": "Ad Astra Oasis of CO-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "2000-04-29",
+        "name": "Blue Horizon",
+        "type": "Encampment",
+        "city": "Glendale",
+        "state": "CA",
+        "body_name": "Blue Horizon Oasis of CA",
+        "key": "Blue Horizon Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2004-01-18",
+        "name": "Blue Horizon",
+        "type": "Oasis",
+        "city": "Glendale",
+        "state": "CA",
+        "body_name": "Blue Horizon Oasis of CA",
+        "key": "Blue Horizon Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2009-04-18",
+        "name": null,
+        "type": null,
+        "city": "Glendale",
+        "state": "CA",
+        "body_name": "Blue Horizon Oasis of CA",
+        "key": "Blue Horizon Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "2000-04-29",
+        "name": "None",
+        "type": "Encampment",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "None Encampment of UT",
+        "key": "None Encampment of UT-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2001-03-21",
+        "name": null,
+        "type": null,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "body_name": "None Encampment of UT",
+        "key": "None Encampment of UT-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2000-08-06",
+        "name": "Croatoan",
+        "type": "Encampment",
+        "city": "Winston\/Salem",
+        "state": "NC",
+        "body_name": "Croatoan Encampment of NC",
+        "key": "Croatoan Encampment of NC-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2003-04-19",
+        "name": null,
+        "type": null,
+        "city": "Winston\/Salem",
+        "state": "NC",
+        "body_name": "Croatoan Encampment of NC",
+        "key": "Croatoan Encampment of NC-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2000-08-06",
+        "name": "Laughing Serpent",
+        "type": "Encampment",
+        "city": "Bayonne",
+        "state": "NJ",
+        "body_name": "Laughing Serpent Encampment of NJ",
+        "key": "Laughing Serpent Encampment of NJ-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2006-01-14",
+        "name": null,
+        "type": null,
+        "city": "Bayonne",
+        "state": "NJ",
+        "body_name": "Laughing Serpent Encampment of NJ",
+        "key": "Laughing Serpent Encampment of NJ-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2000-10-21",
+        "name": "Sol Invictus",
+        "type": "Encampment",
+        "city": "Fayetteville",
+        "state": "AR",
+        "body_name": "Sol Invictus Oasis of AR",
+        "key": "Sol Invictus Oasis of AR-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2006-10-14",
+        "name": "Sol Invictus",
+        "type": "Oasis",
+        "city": "Fayetteville",
+        "state": "AR",
+        "body_name": "Sol Invictus Oasis of AR",
+        "key": "Sol Invictus Oasis of AR-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2001-03-01",
+        "name": "Inner Arts",
+        "type": "Encampment",
+        "city": "San Diego",
+        "state": "CA",
+        "body_name": "Inner Arts Encampment of CA",
+        "key": "Inner Arts Encampment of CA-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2002-04-27",
+        "name": null,
+        "type": null,
+        "city": "San Diego",
+        "state": "CA",
+        "body_name": "Inner Arts Encampment of CA",
+        "key": "Inner Arts Encampment of CA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2001-09-29",
+        "name": "Dove and Serpent",
+        "type": "Oasis",
+        "city": "Atlanta",
+        "state": "GA",
+        "body_name": "Dove and Serpent Oasis of GA",
+        "key": "Dove and Serpent Oasis of GA-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2002-09-28",
+        "name": "Hoor-Par-Kraat",
+        "type": "Encampment",
+        "city": "Ogden",
+        "state": "UT",
+        "body_name": "NOX Oasis of UT",
+        "key": "NOX Oasis of UT-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2005-10-23",
+        "name": "Hoor-Par-Kraat",
+        "type": "Oasis",
+        "city": "Ogden",
+        "state": "UT",
+        "body_name": "NOX Oasis of UT",
+        "key": "NOX Oasis of UT-01"
+    },
+    {
+        "event": "Renamed",
+        "date": "2008-07-12",
+        "name": "NOX",
+        "type": "Oasis",
+        "city": "Ogden",
+        "state": "UT",
+        "body_name": "NOX Oasis of UT",
+        "key": "NOX Oasis of UT-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "2003-01-19",
+        "name": "Seven Spirits",
+        "type": "Encampment",
+        "city": "Tucson",
+        "state": "AZ",
+        "body_name": "Seven Spirits Oasis of AZ",
+        "key": "Seven Spirits Oasis of AZ-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2009-10-17",
+        "name": "Seven Spirits",
+        "type": "Oasis",
+        "city": "Tucson",
+        "state": "AZ",
+        "body_name": "Seven Spirits Oasis of AZ",
+        "key": "Seven Spirits Oasis of AZ-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2004-04-17",
+        "name": "Nu Aeon",
+        "type": "Encampment",
+        "city": "Tampa",
+        "state": "FL",
+        "body_name": "Nu Aeon Encampment of FL",
+        "key": "Nu Aeon Encampment of FL-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2007-04-15",
+        "name": null,
+        "type": null,
+        "city": "Tampa",
+        "state": "FL",
+        "body_name": "Nu Aeon Encampment of FL",
+        "key": "Nu Aeon Encampment of FL-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2005-01-15",
+        "name": "Lapis Lazuli",
+        "type": "Encampment",
+        "city": "Phoenix",
+        "state": "AZ",
+        "body_name": "Lapis Lazuli Encampment of AZ",
+        "key": "Lapis Lazuli Encampment of AZ-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2005-10-22",
+        "name": "Abrahadabra",
+        "type": "Encampment",
+        "city": "Portland",
+        "state": "MA",
+        "body_name": "Abrahadabra Oasis of MA",
+        "key": "Abrahadabra Oasis of MA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2006-10-14",
+        "name": "Abrahadabra",
+        "type": "Oasis",
+        "city": "Portland",
+        "state": "MA",
+        "body_name": "Abrahadabra Oasis of MA",
+        "key": "Abrahadabra Oasis of MA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2005-10-22",
+        "name": "Starry Bayou",
+        "type": "Encampment",
+        "city": "Houston",
+        "state": "TX",
+        "body_name": "Starry Bayou Encampment of TX",
+        "key": "Starry Bayou Encampment of TX-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2006-01-14",
+        "name": "Therion-Babalon",
+        "type": "Encampment",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Therion-Babalon Oasis of CA",
+        "key": "Therion-Babalon Oasis of CA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2006-04-15",
+        "name": "Therion-Babalon",
+        "type": "Oasis",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Therion-Babalon Oasis of CA",
+        "key": "Therion-Babalon Oasis of CA-01"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2009-01-10",
+        "name": null,
+        "type": null,
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Therion-Babalon Oasis of CA",
+        "key": "Therion-Babalon Oasis of CA-02"
+    },
+    {
+        "event": "Chartered",
+        "date": "2006-04-15",
+        "name": "Alombrados",
+        "type": "Encampment",
+        "city": "New Orleans",
+        "state": "LA",
+        "body_name": "Alombrados Oasis of LA",
+        "key": "Alombrados Oasis of LA-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2009-04-18",
+        "name": "Alombrados",
+        "type": "Oasis",
+        "city": "New Orleans",
+        "state": "LA",
+        "body_name": "Alombrados Oasis of LA",
+        "key": "Alombrados Oasis of LA-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2006-04-15",
+        "name": "SET Triumphant",
+        "type": "Encampment",
+        "city": "Orlando",
+        "state": "FL",
+        "body_name": "SET Triumphant Encampment of FL",
+        "key": "SET Triumphant Encampment of FL-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2008-07-12",
+        "name": null,
+        "type": null,
+        "city": "Orlando",
+        "state": "FL",
+        "body_name": "SET Triumphant Encampment of FL",
+        "key": "SET Triumphant Encampment of FL-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2006-07-22",
+        "name": "Theorte Ekstasis",
+        "type": "Encampment",
+        "city": "Louisville",
+        "state": "KY",
+        "body_name": "Theorte Ekstasis Encampment of KY",
+        "key": "Theorte Ekstasis Encampment of KY-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2007-01-13",
+        "name": "AHBH",
+        "type": "Encampment",
+        "city": "Las Vegas",
+        "state": "NV",
+        "body_name": "AHBH Oasis of NV",
+        "key": "AHBH Oasis of NV-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2010-07-17",
+        "name": "AHBH",
+        "type": "Oasis",
+        "city": "Las Vegas",
+        "state": "NV",
+        "body_name": "AHBH Oasis of NV",
+        "key": "AHBH Oasis of NV-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2007-08-10",
+        "name": "Warrior Island",
+        "type": "Encampment",
+        "city": "Jacksonville",
+        "state": "FL",
+        "body_name": "Warrior Island Encampment of FL",
+        "key": "Warrior Island Encampment of FL-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2008-07-12",
+        "name": "Subtlety or Force",
+        "type": "Encampment",
+        "city": "Albuquerque",
+        "state": "NM",
+        "body_name": "Subtlety or Force Encampment of NM",
+        "key": "Subtlety or Force Encampment of NM-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2008-10-18",
+        "name": "Azul Nox",
+        "type": "Encampment",
+        "city": "Hanover",
+        "state": "PA",
+        "body_name": "Azul Nox Encampment of PA",
+        "key": "Azul Nox Encampment of PA-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2008-10-18",
+        "name": "Samadhi",
+        "type": "Encampment",
+        "city": "House Springs",
+        "state": "MO",
+        "body_name": "Samadhi Encampment of MO",
+        "key": "Samadhi Encampment of MO-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2010-07-17",
+        "name": null,
+        "type": null,
+        "city": "House Springs",
+        "state": "MO",
+        "body_name": "Samadhi Encampment of MO",
+        "key": "Samadhi Encampment of MO-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2009-01-10",
+        "name": "Blazing Star",
+        "type": "Oasis",
+        "city": "Berkeley",
+        "state": "CA",
+        "body_name": "Blazing Star Oasis of CA",
+        "key": "Blazing Star Oasis of CA-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2009-04-18",
+        "name": "Mitra-Varuna",
+        "type": "Encampment",
+        "city": "Bloomington",
+        "state": "IN",
+        "body_name": "Mitra-Varuna Encampment of IN",
+        "key": "Mitra-Varuna Encampment of IN-00"
+    },
+    {
+        "event": "Dissolved",
+        "date": "2010-07-17",
+        "name": null,
+        "type": null,
+        "city": "Bloomington",
+        "state": "IN",
+        "body_name": "Mitra-Varuna Encampment of IN",
+        "key": "Mitra-Varuna Encampment of IN-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2009-04-18",
+        "name": "Star Sapphire",
+        "type": "Lodge",
+        "city": "Los Angeles",
+        "state": "CA",
+        "body_name": "Star Sapphire Lodge of CA",
+        "key": "Star Sapphire Lodge of CA-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2009-10-17",
+        "name": "Secret Center",
+        "type": "Encampment",
+        "city": "Orlando",
+        "state": "FL",
+        "body_name": "Secret Center Encampment of FL",
+        "key": "Secret Center Encampment of FL-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2010-04-17",
+        "name": "Mithras",
+        "type": "Encampment",
+        "city": "Windham",
+        "state": "CT",
+        "body_name": "Mithras Encampment of CT",
+        "key": "Mithras Encampment of CT-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2010-07-17",
+        "name": "Astrum Inculta",
+        "type": "Encampment",
+        "city": "Carbondale",
+        "state": "IL",
+        "body_name": "Astrum Inculta Encampment of IL",
+        "key": "Astrum Inculta Encampment of IL-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2010-10-16",
+        "name": "Sword and Serpent",
+        "type": "Encampment",
+        "city": "Dayton",
+        "state": "OH",
+        "body_name": "Sword and Serpent Oasis of OH",
+        "key": "Sword and Serpent Oasis of OH-00"
+    },
+    {
+        "event": "Rechartered",
+        "date": "2012-04-14",
+        "name": "Sword and Serpent",
+        "type": "Oasis",
+        "city": "Dayton",
+        "state": "OH",
+        "body_name": "Sword and Serpent Oasis of OH",
+        "key": "Sword and Serpent Oasis of OH-01"
+    },
+    {
+        "event": "Chartered",
+        "date": "2011-04-16",
+        "name": "Circle of Stars",
+        "type": "Encampment",
+        "city": "Lafayette",
+        "state": "IN",
+        "body_name": "Circle of Stars Encampment of IN",
+        "key": "Circle of Stars Encampment of IN-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2011-08-05",
+        "name": "Kephale",
+        "type": "Encampment",
+        "city": "Murfreesboro",
+        "state": "TN",
+        "body_name": "Kephale Encampment of TN",
+        "key": "Kephale Encampment of TN-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2011-10-15",
+        "name": "Crux Ansata",
+        "type": "Encampment",
+        "city": "Denver",
+        "state": "CO",
+        "body_name": "Crux Ansata Encampment of CO",
+        "key": "Crux Ansata Encampment of CO-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2012-04-14",
+        "name": "Hidden Spring",
+        "type": "Oasis",
+        "city": "Jacksonville",
+        "state": "FL",
+        "body_name": "Hidden Spring Oasis of FL",
+        "key": "Hidden Spring Oasis of FL-00"
+    },
+    {
+        "event": "Chartered",
+        "date": "2012-04-14",
+        "name": "Noxvlvxon",
+        "type": "Encampment",
+        "city": "Anchorage",
+        "state": "AK",
+        "body_name": "Noxvlvxon Encampment of AK",
+        "key": "Noxvlvxon Encampment of AK-00"
+    }
+]

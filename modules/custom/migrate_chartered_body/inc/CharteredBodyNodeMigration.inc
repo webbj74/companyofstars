@@ -180,7 +180,7 @@ class CharteredBodyNodeMigration extends Migration {
       $arguments['source_file'],
       'body_name',
       $this->fields(),
-      ['reader_class' => 'CharteredBodyNodeMigrationJSONReader']
+      [] // ['reader_class' => 'CharteredBodyNodeMigrationJSONReader']
     );
     $this->destination = new MigrateDestinationNode('chartered_body');
 
@@ -197,17 +197,19 @@ class CharteredBodyNodeMigration extends Migration {
     );
 
     $log = <<<EOT
-For early bodies (1980-1988) where no exact closing date is available, Terry has used the last month that the body was listed in The Link as the closing date.  Since the listings in The Link were consider the official list of active bodies, a removal of the body is the closest to an official date available.  Likewise, a body’s appearance on this list was sometimes used as an opening date when no other date was available.  If you happen to find an error or omission on the list, or can provide more accurate information than please contact me at (email-redacted)
+This list was compiled by Terry Murdock and completed on 6/1/2012. Any errors, or shocking factual oversteps are his alone. Invaluable assistance in finding source material or other assistance was provided by Mike Kolson, Richard Kaczynski, and Scott Wilder.  Special thanks are owed to Bill Heidrick, who answered Terry's numerous messages with wit and a wealth of information.
 
-Data in this revision was compiled by Terry Murdock and completed on 6/1/2012.  Any errors, or shocking factual oversteps are his alone.  Invaluable assistance in finding source material or other assistance was provided by Mike Kolson, Richard Kaczynski, and Scott Wilder.  Special thanks are owed to Bill Heidrick, who answered my numerous messages with wit and a wealth of information.
+For early bodies (1980-1988) where no exact closing date is available, Terry used the last month that the body was listed in The Link as the closing date.  Since the listings in The Link were consider the official list of active bodies, a removal of the body is the closest to an official date available.  Likewise, a body’s appearance on this list was sometimes used as an opening date when no other date was available.  If you happen to find an error or omission on the list, or can provide more accurate information than please contact us.
 EOT;
     $this->addFieldMapping('title', 'body_name');
     $this->addFieldMapping('field_current_status', 'last_status');
     $this->addFieldMapping('body', 'notes');
+    $this->addFieldMapping('field_references', 'references')->separator(';');
     $this->addFieldMapping('uid', NULL)->defaultValue(1);
 
-    $this->addFieldMapping('log', null)->defaultValue("TEST");
-    $this->addFieldMapping('revision', null)->defaultValue(1);
+    $this->addFieldMapping('log')->defaultValue($log);
+    $this->addFieldMapping('revision')->defaultValue(1);
+    $this->addFieldMapping('revision_uid')->defaultValue(1);
 
     // Unmapped destination fields
     // Some conventions we use here: with a long list of fields to ignore, we
@@ -221,11 +223,14 @@ EOT;
       'changed',
       'comment',
       'created',
+      'field_event_history',
+        'field_event_history:revision_id',
+        'field_references:language',
       'is_new',
       'language',
       'nid',
       'promote',
-      'revision_uid',
+//      'revision_uid',
       'status',
       'sticky',
       'tnid',
@@ -234,15 +239,35 @@ EOT;
 
   }
 
+  /*
+  public function import(stdClass $node, stdClass $row) {
+    // We're importing revisions, this should be set.
+    $node->revision = 1;
+
+    if (empty($node->nid)) {
+      throw new MigrateException(t('Missing incoming nid.'));
+    }
+
+    return parent::import($node, $row);
+  }
+  */
+
   public function prepareRow($row) {
     if (isset($row->last_status) && $row->last_status == 'Dissolved') {
       $row->last_status = 'Closed';
     }
-    Migration::displayMessage(t('Data for this row: !url', array('!url' => print_r($row,1))));
+    if (isset($row->references) && is_array($row->references)) {
+      $row->references = implode(';', $row->references);
+    }
   }
 
   public function fields() {
     return [
+      'body_name' => 'unique name of body',
+      'last_status' => 'last_status',
+      'notes' => 'notes',
+      'references' => 'references',
+      'status_note' => 'status_note',
     ];
   }
 

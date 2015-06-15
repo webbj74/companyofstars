@@ -24,7 +24,7 @@ function migrate_chartered_body_migrate_api() {
       ),
       'CharteredBodyEvents' => array(
         'class_name' => 'CharteredBodyEventMigration',
-        'source_file' => __DIR__ . '/data/company-of-stars.json',
+        'source_file' => __DIR__ . '/data/company-of-stars-events.json',
         'group_name' => 'chartered_body',
       ),
     ),
