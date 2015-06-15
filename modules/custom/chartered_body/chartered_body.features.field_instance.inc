@@ -394,9 +394,51 @@ function chartered_body_field_default_field_instances() {
     'widget' => array(
       'active' => 0,
       'module' => 'field_collection',
-      'settings' => array(),
+      'settings' => array(
+        'nodragging' => FALSE,
+      ),
       'type' => 'field_collection_embed',
       'weight' => 2,
+    ),
+  );
+
+  // Exported field_instance: 'node-chartered_body-field_references'
+  $field_instances['node-chartered_body-field_references'] = array(
+    'bundle' => 'chartered_body',
+    'default_value' => NULL,
+    'deleted' => 0,
+    'description' => 'Enter one reference. ',
+    'display' => array(
+      'default' => array(
+        'label' => 'above',
+        'module' => 'text',
+        'settings' => array(),
+        'type' => 'text_default',
+        'weight' => 3,
+      ),
+      'teaser' => array(
+        'label' => 'above',
+        'settings' => array(),
+        'type' => 'hidden',
+        'weight' => 0,
+      ),
+    ),
+    'entity_type' => 'node',
+    'field_name' => 'field_references',
+    'label' => 'References',
+    'required' => 0,
+    'settings' => array(
+      'text_processing' => 1,
+      'user_register_form' => FALSE,
+    ),
+    'widget' => array(
+      'active' => 1,
+      'module' => 'text',
+      'settings' => array(
+        'rows' => 2,
+      ),
+      'type' => 'text_textarea',
+      'weight' => 4,
     ),
   );
 
@@ -406,6 +448,7 @@ function chartered_body_field_default_field_instances() {
   t('Body Type');
   t('Current Status');
   t('Date');
+  t('Enter one reference. ');
   t('Enter the current status of this body. "Active" indicates that it is still in operation <em>and</em> still recognized officially by Grand Lodge.');
   t('Event City');
   t('Event Country');
@@ -413,6 +456,7 @@ function chartered_body_field_default_field_instances() {
   t('Event State');
   t('Event Type');
   t('Notes');
+  t('References');
   t('This should be the "short name" of the body; i.e. do not include the level. For example, if the body name is "LVX Lodge", just enter LVX.');
   t('Use "notes" to embellish any details provided in the status update. For example if the date is an estimate you could provide elaboration here. For example: <em>Master moved in 2008, and the remaining body merged with  HPK Lodge.</em>');
 
