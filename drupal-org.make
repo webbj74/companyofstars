@@ -62,6 +62,11 @@ projects[partial_date][type] = "module"
 projects[partial_date][subdir] = "contrib"
 projects[partial_date][version] = "1.0-beta1"
 
+; Pathauto: Provides Clean URLs
+projects[pathauto][type] = "module"
+projects[pathauto][subdir] = "contrib"
+projects[pathauto][version] = "1.2"
+
 ; ReCAPTCHA: Spam deterrent
 projects[recaptcha][type] = "module"
 projects[recaptcha][subdir] = "contrib"

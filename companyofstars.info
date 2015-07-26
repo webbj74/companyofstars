@@ -16,6 +16,7 @@ dependencies[] = search
 dependencies[] = block
 dependencies[] = field_ui
 dependencies[] = field_collection
+dependencies[] = pathauto
 
 ; Features
 dependencies[] = features
