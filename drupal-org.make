@@ -72,6 +72,11 @@ projects[recaptcha][type] = "module"
 projects[recaptcha][subdir] = "contrib"
 projects[recaptcha][version] = "1.11"
 
+; Token: Required by Pathauto
+projects[token][type] = "module"
+projects[token][subdir] = "contrib"
+projects[token][version] = "1.6"
+
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; Themes
